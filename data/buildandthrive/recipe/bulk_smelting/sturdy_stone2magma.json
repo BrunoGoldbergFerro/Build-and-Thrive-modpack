@@ -1,0 +1,10 @@
+{
+  "type": "autowork:bulk_smelting",
+  "amount": 1000,
+  "block": {
+    "item": "quark:sturdy_stone"
+  },
+  "result": {
+    "id": "minecraft:magma_block"
+  }
+}

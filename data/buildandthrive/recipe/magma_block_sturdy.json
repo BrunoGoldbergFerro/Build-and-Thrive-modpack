@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "quark:sturdy_stone"
+  },
+  "result": {
+    "id": "minecraft:magma_block"
+  },
+  "cookingtime": 200
+}

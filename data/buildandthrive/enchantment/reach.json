@@ -1,0 +1,42 @@
+{
+  "description": "Reach",
+  "supported_items": "#minecraft:chest_armor",
+  "weight": 1,
+  "max_level": 3,
+  "min_cost": {
+    "base": 2,
+    "per_level_above_first": 6
+  },
+  "max_cost": {
+    "base": 5,
+    "per_level_above_first": 6
+  },
+  "anvil_cost": 5,
+  "slots": [
+    "armor"
+  ],
+  "effects": {
+    "minecraft:attributes": [
+      {
+        "attribute": "minecraft:player.entity_interaction_range",
+        "id": "buildandthrive:reach_enchantment",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 1,
+          "per_level_above_first": 1
+        },
+        "operation": "add_value"
+      },
+      {
+        "attribute": "minecraft:player.block_interaction_range",
+        "id": "buildandthrive:reach_enchantment",
+        "amount": {
+          "type": "minecraft:linear",
+          "base": 1,
+          "per_level_above_first": 1
+        },
+        "operation": "add_value"
+      }
+    ]
+  }
+}

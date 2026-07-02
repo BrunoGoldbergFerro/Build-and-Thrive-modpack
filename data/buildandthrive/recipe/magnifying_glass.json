@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " $%",
+    " i$",
+    "i  "
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:stick"
+    },
+    "$": {
+      "item": "minecraft:gold_ingot"
+    },
+    "%": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "animalweights:magnifying_glass"
+  }
+}

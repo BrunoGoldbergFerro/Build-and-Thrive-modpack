@@ -1,0 +1,92 @@
+{
+  "melee_options": {
+    "attackDecay": {},
+    "attackReach": true,
+    "axesAreWeapons": true,
+    "bedrockImpaling": true,
+    "canAttackEarly": false,
+    "canSweepOnMiss": true,
+    "chargedAttacks": true,
+    "chargedReach": true,
+    "creativeAttackReach": false,
+    "hasMissTime": true,
+    "iFramesBasedOnWeapon": true,
+    "missedAttackRecovery": true,
+    "percentageDamageEffects": true,
+    "resetOnItemChange": false,
+    "strengthAppliesToEnchants": true,
+    "sweepWithSweeping": true,
+    "swingThroughGrass": true,
+    "tierDamageNerf": false,
+    "aimAssistTicks": 0,
+    "baseHandAttackSpeed": 2.5,
+    "fistDamage": 2.0,
+    "critImpl": {
+      "type": "minecraft:combat_test_8c"
+    },
+    "eatingInterruptionMode": "full_reset",
+    "knockbackMode": "cts_8c"
+  },
+  "ranged_options": {
+    "bowFatigue": true,
+    "ctsMomentumPassedToProjectiles": true,
+    "dispensableTridents": true,
+    "projectilesHaveIFrames": false,
+    "snowballKB": true,
+    "tridentVoidReturn": true,
+    "projectileUncertainty": {
+      "crossbowUncertainty": 0.0
+    },
+    "instantTippedArrowEffectMultiplier": 0.125,
+    "projectileDamage": {},
+    "arrowDisableMode": "pierce"
+  },
+  "defense_options": {
+    "shieldDelay": 0,
+    "instantHealthBonus": 6,
+    "shieldDisableTime": 1.6,
+    "shieldProtectionArc": 73.8723797,
+    "foodImpl": {
+      "type": "minecraft:combat_test_8c"
+    },
+    "armorPiercingDisablesShields": true,
+    "canInteractWhenCrouchShield": true,
+    "armourPiercingMode": "apply_before_percentage"
+  },
+  "mob_options": {
+    "minHitboxSize": 0.9,
+    "mobsCanGuard": true,
+    "mobsCanSprint": true,
+    "mobsUsePlayerAttributes": true
+  },
+  "client_controls": {
+    "autoAttackAllowed": false,
+    "bedrockBridging": false
+  },
+  "legacy_options": {
+    "fishingHookKB": false,
+    "instaAttack": false,
+    "shieldOnlyWhenCharged": false,
+    "shieldChargePercentage": 195
+  },
+  "fixes": {
+    "hasteFix": false,
+    "attributeSwappingFix": false,
+    "delayedEntityUpdates": false
+  },
+  "extra_options": {
+    "attackSpeed": true,
+    "configOnlyWeapons": false,
+    "tieredShields": false,
+    "disableDuringShieldDelay": false,
+    "disableLoyaltyOnHitEntity": false,
+    "improvedMiscEntityAttacks": false,
+    "letVanillaConnect": false,
+    "magicHasIFrames": true,
+    "sweepConditionsMatchMiss": true,
+    "sweepingNegatedForTamed": true
+  },
+  "debug_options": {
+    "enableDebugLogging": false
+  }
+}

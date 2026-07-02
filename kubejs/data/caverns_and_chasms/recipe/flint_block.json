@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "#%",
+    "%#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:flint"
+    },
+    "%": {
+      "item": "minecraft:cinnabar"
+    }
+  },
+  "result": {
+    "id": "caverns_and_chasms:flint_block"
+  }
+}

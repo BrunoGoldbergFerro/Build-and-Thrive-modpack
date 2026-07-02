@@ -1,0 +1,19 @@
+{
+  "blocking_types": [],
+  "items": [
+    {
+      "tag": [
+        "combatify:projectiles_with_cooldowns"
+      ],
+      "cooldown_seconds": 0.2
+    },
+    {
+      "tag": [
+        "combatify:fast_drinkables"
+      ],
+      "use_seconds": 1.0
+    }
+  ],
+  "entities": [],
+  "armor_calculation": "armor_calculations"
+}

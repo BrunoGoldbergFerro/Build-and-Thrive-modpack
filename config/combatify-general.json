@@ -1,0 +1,87 @@
+{
+  "cts_booleans": {
+    "attackDecay": {},
+    "attackReach": true,
+    "autoAttackAllowed": false,
+    "axesAreWeapons": true,
+    "bedrockBridging": false,
+    "bedrockImpaling": true,
+    "bowFatigue": true,
+    "canAttackEarly": true,
+    "canSweepOnMiss": true,
+    "chargedAttacks": true,
+    "chargedReach": true,
+    "creativeAttackReach": false,
+    "ctsMomentumPassedToProjectiles": true,
+    "dispensableTridents": true,
+    "hasMissTime": false,
+    "hasteFix": false,
+    "iFramesBasedOnWeapon": true,
+    "missedAttackRecovery": true,
+    "percentageDamageEffects": true,
+    "projectilesHaveIFrames": false,
+    "resetOnItemChange": false,
+    "snowballKB": true,
+    "strengthAppliesToEnchants": true,
+    "sweepWithSweeping": true,
+    "swingThroughGrass": true,
+    "tierDamageNerf": false,
+    "tridentVoidReturn": true
+  },
+  "cts_integers": {
+    "aimAssistTicks": 0,
+    "shieldDelay": 0,
+    "instantHealthBonus": 6
+  },
+  "cts_doubles": {
+    "baseHandAttackSpeed": 2.5,
+    "fistDamage": 2.0,
+    "projectileUncertainty": {
+      "crossbow_uncertainty": 0.0
+    },
+    "instantTippedArrowEffectMultiplier": 0.125,
+    "shieldDisableTime": 1.6,
+    "shieldProtectionArc": 73.8723797,
+    "minHitboxSize": 0.9
+  },
+  "cts_enums": {
+    "critImpl": "cts_crit_impl",
+    "eatingInterruptionMode": "full_reset",
+    "knockbackMode": "cts_8c",
+    "foodImpl": "cts_food_impl"
+  },
+  "extra_booleans": {
+    "armorPiercingDisablesShields": true,
+    "attackSpeed": true,
+    "canInteractWhenCrouchShield": true,
+    "configOnlyWeapons": false,
+    "tieredShields": false,
+    "delayedEntityUpdates": true,
+    "disableDuringShieldDelay": false,
+    "disableLoyaltyOnHitEntity": false,
+    "fishingHookKB": false,
+    "improvedMiscEntityAttacks": false,
+    "instaAttack": false,
+    "letVanillaConnect": true,
+    "magicHasIFrames": true,
+    "mobsCanGuard": true,
+    "mobsCanSprint": true,
+    "mobsUsePlayerAttributes": true,
+    "shieldOnlyWhenCharged": false,
+    "sweepConditionsMatchMiss": true,
+    "sweepingNegatedForTamed": true
+  },
+  "extra_integers": {
+    "shieldChargePercentage": 195
+  },
+  "extra_doubles": {
+    "projectileDamage": {}
+  },
+  "extra_enums": {
+    "arrowDisableMode": "pierce",
+    "armourPiercingMode": "vanilla"
+  },
+  "debug_options": {
+    "enableDebugLogging": false
+  }
+}

@@ -1,0 +1,2 @@
+# Supported difficulties: "peaceful", "easy", "normal", or "hard"
+hunger_difficulty = "EASY"

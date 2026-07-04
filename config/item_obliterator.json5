@@ -23,6 +23,8 @@
     "minecraft:waxed_copper_bars", "minecraft:waxed_exposed_copper_bars", "minecraft:waxed_weathered_copper_bars", "minecraft:waxed_oxidized_copper_bars", 
     "minecraft:copper_chain", "minecraft:exposed_copper_chain", "minecraft:weathered_copper_chain", "minecraft:oxidized_copper_chain", 
     "minecraft:waxed_copper_chain", "minecraft:waxed_exposed_copper_chain", "minecraft:waxed_weathered_copper_chain", "minecraft:waxed_oxidized_copper_chain",
+    "copperagebackport:copper_button", "copperagebackport:exposed_copper_button", "copperagebackport:weathered_copper_button", "copperagebackport:oxidized_copper_button", 
+    "copperagebackport:waxed_copper_button", "copperagebackport:waxed_exposed_copper_button", "copperagebackport:waxed_weathered_copper_button", "copperagebackport:waxed_oxidized_copper_button",
     "caverns_and_chasms:copper_shovel", "caverns_and_chasms:copper_pickaxe", "caverns_and_chasms:copper_axe", "caverns_and_chasms:copper_hoe", "caverns_and_chasms:copper_sword", 
     "caverns_and_chasms:copper_helmet", "caverns_and_chasms:copper_chestplate", "caverns_and_chasms:copper_leggings", "caverns_and_chasms:copper_boots", "caverns_and_chasms:copper_horse_armor", 
     "vista:crystalline",

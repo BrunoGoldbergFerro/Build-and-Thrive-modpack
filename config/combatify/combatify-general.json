@@ -57,7 +57,7 @@
     "minHitboxSize": 0.9,
     "mobsCanGuard": true,
     "mobsCanSprint": true,
-    "mobsUsePlayerAttributes": true
+    "mobsUsePlayerAttributes": false
   },
   "client_controls": {
     "autoAttackAllowed": false,

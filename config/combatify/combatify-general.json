@@ -47,6 +47,12 @@
     "shieldDisableTime": 1.6,
     "shieldProtectionArc": 73.8723797,
     "foodImpl": {
+      "minimum_fast_healing_level": 20,
+      "heal_seconds": 4.0,
+      "starvation_seconds": 4.0,
+      "cts_saturation_cap": false,
+      "cts_healing": false,
+      "minimum_healing_level": 18,
       "type": "minecraft:combat_test_8c"
     },
     "armorPiercingDisablesShields": true,

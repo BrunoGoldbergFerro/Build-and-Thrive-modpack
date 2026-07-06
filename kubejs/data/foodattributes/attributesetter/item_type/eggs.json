@@ -1,0 +1,68 @@
+{
+  "#c:eggs": [
+    {
+      "operation": "FOOD_ATTRIBUTE",
+      "attribute": "foodattributes:berserk_damage_multiplier",
+      "value": 0.25,
+      "duration": 1200,
+      "modifier_operation": "ADDITION",
+      "modifier_id": "foodattributes:egg_berserk_bonus"
+    }
+  ],
+  "mynethersdelight:boiled_egg": [
+    {
+      "operation": "FOOD_ATTRIBUTE",
+      "attribute": "foodattributes:berserk_damage_max_effectiveness",
+      "value": 0.15,
+      "duration": 1200,
+      "modifier_operation": "ADDITION",
+      "modifier_id": "foodattributes:egg_berserk_maxeff_bonus"
+    }
+  ],
+  "mynethersdelight:golden_egg": [
+    {
+      "operation": "FOOD_ATTRIBUTE",
+      "attribute": "foodattributes:berserk_damage_multiplier",
+      "value": 0.5,
+      "duration": 2400,
+      "modifier_operation": "ADDITION",
+      "modifier_id": "foodattributes:egg_berserk_bonus"
+    },
+    {
+      "operation": "FOOD_ATTRIBUTE",
+      "attribute": "foodattributes:berserk_damage_max_effectiveness",
+      "value": 0.15,
+      "duration": 2400,
+      "modifier_operation": "ADDITION",
+      "modifier_id": "foodattributes:egg_berserk_maxeff_bonus"
+    }
+  ],
+  "mynethersdelight:enchanted_golden_egg": [
+    {
+      "operation": "FOOD_ATTRIBUTE",
+      "attribute": "foodattributes:berserk_damage_multiplier",
+      "value": 0.5,
+      "duration": 2400,
+      "modifier_operation": "ADDITION",
+      "modifier_id": "foodattributes:egg_berserk_bonus"
+    },
+    {
+      "operation": "FOOD_ATTRIBUTE",
+      "attribute": "foodattributes:berserk_damage_max_effectiveness",
+      "value": 0.3,
+      "duration": 2400,
+      "modifier_operation": "ADDITION",
+      "modifier_id": "foodattributes:egg_berserk_maxeff_bonus"
+    }
+  ],
+  "mynethersdelight:strider_egg": [
+    {
+      "operation": "FOOD_ATTRIBUTE",
+      "attribute": "minecraft:generic.step_height",
+      "value": 0.5,
+      "duration": 1200,
+      "modifier_operation": "ADDITION",
+      "modifier_id": "foodattributes:strider_egg_step_bonus"
+    }
+  ]
+}

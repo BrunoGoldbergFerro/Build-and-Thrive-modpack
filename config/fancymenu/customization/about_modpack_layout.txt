@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = about_modpack
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1783024262344
+  last_edited_time = 1783365896323
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:f429beec-ff74-411d-98f1-882c9d53c936-1783024086617] = [groups:][instances:]
+  [loading_requirement_container_meta:38a0b891-98f0-4fb4-9bf1-47f216d72d55-1783365865312] = [groups:][instances:]
 }
 
 menu_background {
@@ -373,9 +373,9 @@ element {
   auto_sizing_base_screen_width = 1366
   auto_sizing_base_screen_height = 706
   sticky_anchor = false
-  anchor_point = mid-centered
+  anchor_point = top-centered
   x = -72
-  y = -150
+  y = 42
   width = 145
   height = 22
   stay_on_screen = true
@@ -449,11 +449,11 @@ element {
   fade_out = no_fading
   auto_sizing = false
   auto_sizing_base_screen_width = 1366
-  auto_sizing_base_screen_height = 706
+  auto_sizing_base_screen_height = 768
   sticky_anchor = false
-  anchor_point = mid-centered
-  x = -335
-  y = 150
+  anchor_point = bottom-left
+  x = 6
+  y = -27
   width = 100
   height = 20
   stay_on_screen = true

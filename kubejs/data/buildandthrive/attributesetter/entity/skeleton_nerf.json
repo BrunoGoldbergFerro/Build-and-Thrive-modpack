@@ -1,0 +1,5 @@
+{
+  "#minecraft:skeletons && !minecraft:wither_skeleton": [
+    { "attribute": "minecraft:generic.max_health", "value": 10, "operation": "BASE" }
+  ]
+}

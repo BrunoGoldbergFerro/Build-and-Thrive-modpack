@@ -1,0 +1,13 @@
+{
+  "type": "supplementaries:structure_map",
+  "item": "minecraft:emerald",
+  "structure": "minecraft:trail_ruins",
+  "map_color": "0x9e6833",
+  "map_name": "Trail Explorer Map",
+  "map_marker": "buildandthrive:trail_ruins",
+  "price_min": 5,
+  "price_max": 5,
+  "max_trades": 1,
+  "price_multiplier": 0.05,
+  "level": 2
+}

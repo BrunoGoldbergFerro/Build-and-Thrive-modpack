@@ -91,7 +91,7 @@
   "_comment_entityFilterMode": "How the mod decides which entities to track. BLACKLIST: every Animal is tracked except those in disabledEntities. WHITELIST: only entities in enabledEntities are tracked. VANILLA_ONLY: track only minecraft: entities (plus anything in enabledEntities, minus anything in disabledEntities). Possible inputs: BLACKLIST, WHITELIST, VANILLA_ONLY.",
   "entityFilterMode": "BLACKLIST",
   "_comment_disabledEntities": "Entity type IDs (e.g. \"quark:shiba\") fully ignored by the mod: no weight tracking, no drop scaling, no sick tint, no breeding block, no tooltip. Used in BLACKLIST and VANILLA_ONLY modes.",
-  "disabledEntities": [],
+  "disabledEntities": ["quark:toretoise", "caverns_and_chasms:rat", "minecraft:happy_ghast"],
   "_comment_enabledEntities": "Entity type IDs that the mod tracks. Used in WHITELIST mode (only these are tracked) and as an extra opt-in list in VANILLA_ONLY mode. Example: [\"minecraft:cow\", \"minecraft:pig\", \"minecraft:chicken\"].",
   "enabledEntities": []
 }

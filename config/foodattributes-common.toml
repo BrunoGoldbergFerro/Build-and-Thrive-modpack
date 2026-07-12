@@ -6,7 +6,7 @@ globalMultiplier = 1.0
 #Multiplier applied to all injection durations when a food is eaten normally.
 # Default: 1.0
 # Range: 0.0 ~ 1.7976931348623157E308
-globalDurationMultiplier = 1.0
+globalDurationMultiplier = 2.0
 #Multiplier applied to modifier values inherited from ingredients when the result is produced by a cooking recipe (smelting, smoking, blasting, campfire cooking).
 # Default: 1.0
 # Range: 0.0 ~ 1.7976931348623157E308
@@ -14,7 +14,7 @@ smeltingMultiplier = 2.0
 #Multiplier applied to inherited injection durations when the result is produced by a cooking recipe (smelting, smoking, blasting, campfire cooking).
 # Default: 1.0
 # Range: 0.0 ~ 1.7976931348623157E308
-smeltingDurationMultiplier = 1.0
+smeltingDurationMultiplier = 2.0
 #Cuisine Delight integration settings.
 #Extra multiplier applied to modifier values when the food is part of a Cuisine Delight plate (stacks with globalMultiplier).
 # Default: 1.0

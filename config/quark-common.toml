@@ -94,7 +94,7 @@
 		"Delayed Update List" = ["minecraft:dispenser", "minecraft:dropper"]
 
 [building]
-	"Celebratory Lamps" = true
+	"Celebratory Lamps" = false
 	"Compressed Blocks" = true
 	"Duskbound Blocks" = true
 	"Framed Glass" = true
@@ -149,7 +149,7 @@
 		"Enable Golden Apple Crate" = false
 		"Enable Potato Crate" = false
 		"Enable Carrot Crate" = false
-		"Enable Golden Carrot Crate" = true
+		"Enable Golden Carrot Crate" = false
 		"Enable Beetroot Crate" = false
 		"Enable Cocoa Bean Sack" = false
 		"Enable Nether Wart Sack" = true

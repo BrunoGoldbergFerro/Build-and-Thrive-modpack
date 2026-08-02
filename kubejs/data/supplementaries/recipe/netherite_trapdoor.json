@@ -1,0 +1,28 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "supplementaries:flag",
+      "flag": "wrench"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "supplementaries:flag",
+      "flag": "netherite_trapdoor"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "id": "supplementaries:netherite_trapdoor",
+    "count": 6
+  }
+}

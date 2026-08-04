@@ -9,11 +9,12 @@
   "portal-acceleration": true,
   "sleeping-acceleration": true,
   "server-watchdog": true,
-  "time-acceleration": true,
+  "time-acceleration": false,
   "bow-acceleration": true,
   "crossbow-acceleration": true,
   "random-tickspeed-acceleration": true,
   "tnt-acceleration": false,
   "vanilla-lagback": true,
-  "automatic-updater": true
+  "automatic-updater": true,
+  "mob-timer-acceleration": true
 }

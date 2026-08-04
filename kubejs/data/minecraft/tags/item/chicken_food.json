@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "cratedelight:wheat_seeds_bag",
+    "cratedelight:pumpkin_seeds_bag",
+    "cratedelight:melon_seeds_bag",
+    "cratedelight:beetroot_seeds_bag",
+    "farmersdelight:rice_bag"
+  ]
+}

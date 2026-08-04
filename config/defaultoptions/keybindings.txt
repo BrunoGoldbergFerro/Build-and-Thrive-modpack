@@ -43,6 +43,7 @@ key_key.woolproofed.toggle:key.keyboard.unknown:
 key_key.kubejs.kubedex:key.keyboard.unknown:
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown:
 key_net.clayborn.accurateblockplacement.togglefastbreaking:key.keyboard.unknown:
+key_key.easy_mob_spawn_control.openspawncrontrolscreen:key.keyboard.unknown:
 key_key.personality.crawl:key.keyboard.c:
 key_key.personality.sit:key.keyboard.z:
 key_quark.keybind.autorun:key.keyboard.unknown:

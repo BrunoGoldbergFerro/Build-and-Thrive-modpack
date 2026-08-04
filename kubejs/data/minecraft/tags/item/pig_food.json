@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "farmersdelight:carrot_crate",
+    "farmersdelight:potato_crate",
+    "farmersdelight:beetroot_crate",
+    "farmersdelight:cabbage_crate",
+    "farmersdelight:tomato_crate"
+  ]
+}

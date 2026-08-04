@@ -4,7 +4,7 @@
 	# Default: 0.1
 	# Range: -500.0 ~ 10000.0
 	"Blindness range" = 0.1
-	"Have all mobs attack villagers?" = true
+	"Have all mobs attack villagers?" = false
 	#Any mob id in this list will not attack villagers if the config option for that is on.
 	"Mob BlackList" = ["minecraft:endermen", "minecraft:zombified_piglin"]
 	"Allow mobs to open fence gates if they are already able to open doors" = true
@@ -19,6 +19,7 @@
 	"Mobs that don't have the jumping ai" = []
 	"Halve all health of baby mobs?" = true
 	"Baby mobs exempt from above nerf if enabled" = ["minecraft:villager", "minecraft:horse", "minecraft:donkey", "minecraft:bee", "minecraft:mule", "minecraft:cow", "minecraft:goat", "minecraft:mooshroom", "minecraft:sheep", "minecraft:pig", "minecraft:chicken", "minecraft:wolf", "minecraft:cat", "minecraft:ocelot", "minecraft:axolotl", "minecraft:llama", "minecraft:rabbit", "minecraft:turtle", "minecraft:strider", "minecraft:armadillo", "minecraft:camel", "minecraft:squid", "minecraft:happy_ghast"]
+
 
 [husk]
 	"Enable burrowing attack for husk?" = true

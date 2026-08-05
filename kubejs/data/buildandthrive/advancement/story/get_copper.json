@@ -1,0 +1,33 @@
+{
+  "parent": "buildandthrive:story/root",
+  "criteria": {
+    "get_copper": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:raw_copper"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.bat.story.mine_copper.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:raw_copper"
+    },
+    "title": {
+      "translate": "advancements.bat.story.mine_copper.title"
+    }
+  },
+  "requirements": [
+    [
+      "get_copper"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

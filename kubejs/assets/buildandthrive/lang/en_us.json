@@ -1,6 +1,15 @@
 {
   "advancements.bat.story.root.description": "The brain and progress of the game",
   "advancements.bat.story.root.title": "Build and Thrive",
-  "advancements.bat.story.mine_copper.description": "Mine copper with a pickaxe",
-  "advancements.bat.story.mine_copper.title": "1.21.11"
+  "advancements.bat.story.mine_copper.description": "Mine Copper with a Pickaxe",
+  "advancements.bat.story.mine_copper.title": "1.21.11",
+  "advancements.bat.story.smelt_gold.title": "Midas touch",
+  "advancements.bat.story.smelt_gold.description": "Refine Raw Gold in a furnace",
+  "advancements.bat.story.smelt_silver.title": "Archimedes Crown",
+  "advancements.bat.story.smelt_silver.description": "Refine Raw Silver in a furnace",
+  "advancements.bat.story.mine_deepslate.title": "Neolithic",
+  "advancements.bat.story.mine_deepslate.description": "Mine Deepslate with your newer Pickaxe",
+  "advancements.bat.story.suit_up.description": "Protect yourself with a piece of copper armor",
+  "advancements.bat.husbandry.try_to_sleep_in_bed.title": "Sweet d... wait",
+  "advancements.bat.husbandry.try_to_sleep_in_bed.description": "Sleep in a Bed to mark your spawn"
 }

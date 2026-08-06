@@ -1,0 +1,33 @@
+{
+  "parent": "buildandthrive:story/smelt_iron",
+  "criteria": {
+    "silver": {
+      "conditions": {
+        "items": [
+          {
+            "items": "caverns_and_chasms:silver_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.bat.story.smelt_silver.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "caverns_and_chasms:silver_ingot"
+    },
+    "title": {
+      "translate": "advancements.bat.story.smelt_silver.title"
+    }
+  },
+  "requirements": [
+    [
+      "silver"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

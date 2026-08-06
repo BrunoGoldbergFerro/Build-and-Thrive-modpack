@@ -1,0 +1,33 @@
+{
+  "parent": "buildandthrive:story/get_stone",
+  "criteria": {
+    "get_deepslate": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:cobbled_deepslate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.bat.story.mine_deepslate.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:cobbled_deepslate"
+    },
+    "title": {
+      "translate": "advancements.bat.story.mine_deepslate.title"
+    }
+  },
+  "requirements": [
+    [
+      "get_deepslate"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,34 @@
+{
+  "parent": "buildandthrive:husbandry/root",
+  "criteria": {
+    "plant": {
+      "conditions": {
+        "location": [
+          {
+            "tag": "minecraft:crops",
+            "condition": "minecraft:block_state_property"
+          }
+        ]
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.plant_seed.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:wheat"
+    },
+    "title": {
+      "translate": "advancements.husbandry.plant_seed.title"
+    }
+  },
+  "requirements": [
+    [
+      "plant"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

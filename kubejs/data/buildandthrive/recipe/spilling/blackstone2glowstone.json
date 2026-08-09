@@ -1,0 +1,13 @@
+{
+  "type": "autowork:spilling",
+  "block": {
+    "item": "minecraft:blackstone"
+  },
+  "fluid": {
+    "id": "supplementaries:lumisene",
+    "amount": 1000
+  },
+  "result": {
+    "id": "minecraft:glowstone"
+  }
+}

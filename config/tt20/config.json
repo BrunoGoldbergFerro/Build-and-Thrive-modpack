@@ -12,7 +12,7 @@
   "time-acceleration": true,
   "bow-acceleration": true,
   "crossbow-acceleration": true,
-  "random-tickspeed-acceleration": true,
+  "random-tickspeed-acceleration": false,
   "tnt-acceleration": false,
   "vanilla-lagback": true,
   "automatic-updater": true

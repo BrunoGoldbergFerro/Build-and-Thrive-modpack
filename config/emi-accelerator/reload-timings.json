@@ -1,0 +1,5420 @@
+[
+  {
+    "timestamp": 1786749853105,
+    "reload_number": 1,
+    "total_ms": 10911,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 396
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 146
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 13
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 10
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 1012
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 376
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 3534
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 753
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 34
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 1166
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 80
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 25
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 109
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 59
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 19
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 18
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 88
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 36
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 39
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1458
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 30
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 1137
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 15
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 278
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 70
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 12
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 12
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786749842197
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786749842222
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786749842773
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786749843796
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786749850187
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786749851675
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786749852763
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786749852768
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786749852812
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786749852812
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786749852827
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786749852827
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786749853080
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786749853092
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786749853103
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786749853105
+      }
+    ]
+  },
+  {
+    "timestamp": 1786749968416,
+    "reload_number": 2,
+    "total_ms": 3164,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 14
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 125
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 63
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 831
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 132
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 782
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 94
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 31
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 13
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 14
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 54
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 49
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 15
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 7
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 589
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 16
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 269
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 3
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 1
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786749965252
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786749965255
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786749965269
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786749965395
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786749967539
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786749968144
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786749968401
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786749968402
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786749968413
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786749968413
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786749968413
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786749968413
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786749968415
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786749968416
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786749968416
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786749968416
+      }
+    ]
+  },
+  {
+    "timestamp": 1786750173290,
+    "reload_number": 3,
+    "total_ms": 6942,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 45
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 136
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 133
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 988
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 203
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 700
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 3185
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 17
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 17
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 542
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 879
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 4
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 2
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 2
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786750166348
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786750166355
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786750166401
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786750166538
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786750171855
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786750172406
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786750173271
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786750173273
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786750173285
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786750173285
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786750173286
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786750173286
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786750173288
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786750173290
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786750173290
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786750173290
+      }
+    ]
+  },
+  {
+    "timestamp": 1786750331887,
+    "reload_number": 4,
+    "total_ms": 4,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 4
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786750331883
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786750331886
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786750331887
+      }
+    ]
+  },
+  {
+    "timestamp": 1786820279637,
+    "reload_number": 1,
+    "total_ms": 8482,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 193
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 40
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 4
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 188
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 80
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 2105
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 446
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 32
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 328
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 539
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 17
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 84
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 9
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 10
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 34
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 15
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 4
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1104
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 27
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 2443
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 48
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 660
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 74
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 8
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 347
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 347
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786820271156
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786820271177
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786820271399
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786820271589
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786820275355
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786820276487
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786820278831
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786820278835
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786820278929
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786820278930
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786820278977
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786820278977
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786820279281
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786820279628
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786820279636
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786820279637
+      }
+    ]
+  },
+  {
+    "timestamp": 1786821028209,
+    "reload_number": 2,
+    "total_ms": 5473,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 298
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 260
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 99
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 657
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 197
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 1049
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 1193
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 19
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 3
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 878
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 6
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 728
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 6
+      }
+    ],
+    "phases": [
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 12
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 12
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 0
+      },
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 2
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 1
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 3
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 3
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786821022736
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786821022739
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786821023040
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786821023300
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786821026593
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786821027475
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786821028187
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786821028189
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786821028203
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786821028203
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786821028203
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786821028203
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786821028206
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786821028209
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786821028209
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786821028209
+      }
+    ]
+  },
+  {
+    "timestamp": 1786821278211,
+    "reload_number": 3,
+    "total_ms": 5909,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 17
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 79
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 72
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 2050
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 234
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 876
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 587
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 953
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 648
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 11
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 286
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 4
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 3
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 1
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786821272302
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786821272305
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786821272324
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786821272403
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786821277261
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786821277920
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786821278192
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786821278194
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786821278206
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786821278206
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786821278207
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786821278207
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786821278210
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786821278211
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786821278211
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786821278211
+      }
+    ]
+  },
+  {
+    "timestamp": 1786821418115,
+    "reload_number": 4,
+    "total_ms": 58,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 58
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786821418058
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786821418103
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786821418114
+      }
+    ]
+  },
+  {
+    "timestamp": 1786823689085,
+    "reload_number": 1,
+    "total_ms": 8227,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 276
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 54
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 4
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 9
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 5
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 274
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 460
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 1314
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 535
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 48
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 1146
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 44
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 74
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 20
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 132
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 13
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 25
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 4
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 38
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 31
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 22
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 43
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 10
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 2003
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 50
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 974
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 48
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 527
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 204
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 49
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 49
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786823680860
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786823680888
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786823681210
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786823681492
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786823685484
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786823687537
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786823688477
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786823688481
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786823688510
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786823688517
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786823688558
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786823688558
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786823689026
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786823689075
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786823689080
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786823689085
+      }
+    ]
+  },
+  {
+    "timestamp": 1786824348069,
+    "reload_number": 2,
+    "total_ms": 3975,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 34
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 129
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 108
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 471
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 139
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 15
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 1288
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 442
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 21
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 12
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 3
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 726
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 8
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 489
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 12
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 5
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 4
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 4
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786824344094
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786824344099
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786824344132
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786824344261
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786824346834
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786824347567
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786824348039
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786824348043
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786824348056
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786824348057
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786824348057
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786824348057
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786824348064
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786824348069
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786824348069
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786824348069
+      }
+    ]
+  },
+  {
+    "timestamp": 1786825846117,
+    "reload_number": 3,
+    "total_ms": 5130,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 2
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 304
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 5
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 14
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 2
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 123
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 87
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 806
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 197
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 354
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 459
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 25
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 21
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 5
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1895
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 430
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 1
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 296
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 286
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 4
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 4
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 1
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786825840990
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786825840994
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786825841317
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786825841441
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786825843486
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786825845391
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786825845796
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786825845799
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786825845820
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786825845821
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786825845821
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786825845821
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786825846111
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786825846116
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786825846117
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786825846117
+      }
+    ]
+  },
+  {
+    "timestamp": 1786826929036,
+    "reload_number": 4,
+    "total_ms": 6,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "complete",
+        "duration_ms": 5
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786826929031
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786826929035
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786826929035
+      }
+    ]
+  },
+  {
+    "timestamp": 1786830711530,
+    "reload_number": 1,
+    "total_ms": 11592,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 172
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 34
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 6
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 3
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 320
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 212
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 3598
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 616
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 30
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 28
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 1034
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 1122
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 1561
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 109
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 27
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 10
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 29
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 9
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 61
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 44
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 31
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 27
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 3
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1482
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 26
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 752
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 32
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 165
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 9
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786830699940
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786830699955
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786830700159
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786830700481
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786830709073
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786830710582
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786830711282
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786830711286
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786830711333
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786830711334
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786830711365
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786830711365
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786830711521
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786830711526
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786830711529
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786830711530
+      }
+    ]
+  },
+  {
+    "timestamp": 1786831008776,
+    "reload_number": 2,
+    "total_ms": 16,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 15
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786831008761
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786831008767
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786831008776
+      }
+    ]
+  },
+  {
+    "timestamp": 1786833778621,
+    "reload_number": 1,
+    "total_ms": 8341,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 308
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 47
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 6
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 404
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 823
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 1441
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 1186
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 42
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 1161
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 37
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 188
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 49
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 107
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 40
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 16
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 230
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 23
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 19
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 5
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1306
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 24
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 667
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 11
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 139
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 15
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786833770281
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786833770307
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786833770648
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786833771061
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786833776474
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786833777804
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786833778436
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786833778438
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786833778471
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786833778472
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786833778482
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786833778482
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786833778612
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786833778617
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786833778620
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786833778621
+      }
+    ]
+  },
+  {
+    "timestamp": 1786834406963,
+    "reload_number": 2,
+    "total_ms": 10,
+    "cache_hit": true,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "complete",
+        "duration_ms": 9
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786834406954
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786834406960
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786834406962
+      }
+    ]
+  },
+  {
+    "timestamp": 1786837696756,
+    "reload_number": 1,
+    "total_ms": 9367,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 3
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 203
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 62
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 9
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 20
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 0
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 450
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 201
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 1312
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 486
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 24
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 453
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 50
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 33
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 55
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 4
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 0
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 9
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 10
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 62
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 28
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 170
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 146
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 2
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 1126
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 20
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 2159
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 41
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 2187
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 73
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786837687393
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786837687416
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786837687689
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786837688152
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786837691223
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786837692369
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786837694495
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786837694503
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786837694528
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786837694529
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786837694569
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786837694569
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786837696747
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786837696752
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786837696756
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786837696756
+      }
+    ]
+  },
+  {
+    "timestamp": 1786838824524,
+    "reload_number": 2,
+    "total_ms": 26,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "complete",
+        "duration_ms": 24
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786838824500
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786838824512
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786838824522
+      }
+    ]
+  },
+  {
+    "timestamp": 1786915920978,
+    "reload_number": 1,
+    "total_ms": 6593,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 0
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi",
+        "duration_ms": 402
+      },
+      {
+        "name": "Initializing plugin from emitrades",
+        "duration_ms": 51
+      },
+      {
+        "name": "Initializing plugin from sawmill",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from supplementaries",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from farmersdelight",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emiprofessions",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kiwi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from owo",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from kubejs",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_loot",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from justenoughbreeding",
+        "duration_ms": 1
+      },
+      {
+        "name": "Initializing plugin from emi_enchanting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from emi_ores",
+        "duration_ms": 0
+      },
+      {
+        "name": "Initializing plugin from enchantmentdisabler",
+        "duration_ms": 5
+      },
+      {
+        "name": "Initializing plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 8
+      },
+      {
+        "name": "Processing tags",
+        "duration_ms": 1
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 279
+      },
+      {
+        "name": "Constructing index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading plugin from emi",
+        "duration_ms": 645
+      },
+      {
+        "name": "Loading plugin from emitrades",
+        "duration_ms": 1595
+      },
+      {
+        "name": "Loading plugin from sawmill",
+        "duration_ms": 530
+      },
+      {
+        "name": "Loading plugin from supplementaries",
+        "duration_ms": 8
+      },
+      {
+        "name": "Loading plugin from farmersdelight",
+        "duration_ms": 29
+      },
+      {
+        "name": "Loading plugin from emiprofessions",
+        "duration_ms": 626
+      },
+      {
+        "name": "Loading plugin from kiwi",
+        "duration_ms": 7
+      },
+      {
+        "name": "Loading plugin from owo",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading plugin from kubejs",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from emi_loot",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading plugin from justenoughbreeding",
+        "duration_ms": 194
+      },
+      {
+        "name": "Loading plugin from emi_enchanting",
+        "duration_ms": 42
+      },
+      {
+        "name": "Loading plugin from emi_ores",
+        "duration_ms": 53
+      },
+      {
+        "name": "Loading plugin from enchantmentdisabler",
+        "duration_ms": 6
+      },
+      {
+        "name": "Loading plugin from jemi",
+        "duration_ms": 1
+      },
+      {
+        "name": "Waiting for JEI to finish...",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading information from JEI...",
+        "duration_ms": 11
+      },
+      {
+        "name": "Processing JEI stacks...",
+        "duration_ms": 29
+      },
+      {
+        "name": "Processing JEI subtypes...",
+        "duration_ms": 2
+      },
+      {
+        "name": "Processing JEI recipes...",
+        "duration_ms": 5
+      },
+      {
+        "name": "Loading JEI data for Crafting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Anvil",
+        "duration_ms": 41
+      },
+      {
+        "name": "Loading JEI data for Blasting",
+        "duration_ms": 10
+      },
+      {
+        "name": "Loading JEI data for Brewing",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Campfire Cooking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Composting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Fuel",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Grindstone",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 3
+      },
+      {
+        "name": "Loading JEI data for Smithing Table",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Smoking",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Stonecutting",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Crushing",
+        "duration_ms": 0
+      },
+      {
+        "name": "Loading JEI data for Enriching",
+        "duration_ms": 18
+      },
+      {
+        "name": "Loading JEI data for Smelting",
+        "duration_ms": 1
+      },
+      {
+        "name": "Loading JEI data for Spilling",
+        "duration_ms": 11
+      },
+      {
+        "name": "Loading JEI data for Information",
+        "duration_ms": 2
+      },
+      {
+        "name": "Loading JEI data for Painting",
+        "duration_ms": 18
+      },
+      {
+        "name": "Loading JEI data for Baking",
+        "duration_ms": 9
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 1
+      },
+      {
+        "name": "Baking index",
+        "duration_ms": 0
+      },
+      {
+        "name": "Registering late recipes",
+        "duration_ms": 983
+      },
+      {
+        "name": "Baking recipes",
+        "duration_ms": 23
+      },
+      {
+        "name": "Baking search",
+        "duration_ms": 726
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 37
+      },
+      {
+        "name": "Finishing up",
+        "duration_ms": 0
+      },
+      {
+        "name": "complete",
+        "duration_ms": 168
+      }
+    ],
+    "phases": [
+      {
+        "name": "searchWidget.update",
+        "duration_ms": 13
+      },
+      {
+        "name": "getCraftables",
+        "duration_ms": 0
+      },
+      {
+        "name": "recalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "forceRecalculate",
+        "duration_ms": 5
+      },
+      {
+        "name": "reloadLog.bake",
+        "duration_ms": 0
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786915914387
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786915914436
+      },
+      {
+        "name": "tags_reload",
+        "timestamp_ms": 1786915914857
+      },
+      {
+        "name": "stacklist_reload",
+        "timestamp_ms": 1786915915151
+      },
+      {
+        "name": "stacklist_bake",
+        "timestamp_ms": 1786915919041
+      },
+      {
+        "name": "recipes_bake",
+        "timestamp_ms": 1786915920047
+      },
+      {
+        "name": "bom_reload",
+        "timestamp_ms": 1786915920730
+      },
+      {
+        "name": "persistent_data_load",
+        "timestamp_ms": 1786915920735
+      },
+      {
+        "name": "step_Baking_search",
+        "timestamp_ms": 1786915920773
+      },
+      {
+        "name": "search_bake",
+        "timestamp_ms": 1786915920774
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786915920810
+      },
+      {
+        "name": "step_Finishing_up",
+        "timestamp_ms": 1786915920810
+      },
+      {
+        "name": "after_search_update",
+        "timestamp_ms": 1786915920941
+      },
+      {
+        "name": "after_force_recalculate",
+        "timestamp_ms": 1786915920946
+      },
+      {
+        "name": "after_reload_log_bake",
+        "timestamp_ms": 1786915920977
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786915920978
+      }
+    ]
+  },
+  {
+    "timestamp": 1786917294772,
+    "reload_number": 2,
+    "total_ms": 40,
+    "cache_hit": false,
+    "steps": [
+      {
+        "name": "Clearing data",
+        "duration_ms": 1
+      },
+      {
+        "name": "Clearing data",
+        "duration_ms": 2
+      },
+      {
+        "name": "complete",
+        "duration_ms": 37
+      }
+    ],
+    "checkpoints": [
+      {
+        "name": "clear_recipes",
+        "timestamp_ms": 1786917294735
+      },
+      {
+        "name": "clear_stacklist",
+        "timestamp_ms": 1786917294760
+      },
+      {
+        "name": "run_return",
+        "timestamp_ms": 1786917294771
+      }
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "autowork:wrench", "autowork:redstone_coil", "autowork:toggler", "autowork:transmitter", "autowork:precise_observer", "autowork:template_card", "autowork:templater", "autowork:buffer",
+    "minecraft:copper_lantern", "minecraft:exposed_copper_lantern", "minecraft:weathered_copper_lantern", "minecraft:oxidized_copper_lantern", 
+    "minecraft:waxed_copper_lantern", "minecraft:waxed_exposed_copper_lantern", "minecraft:waxed_weathered_copper_lantern", "minecraft:waxed_oxidized_copper_lantern", "minecraft:copper_torch", 
+    "minecraft:copper_bars", "minecraft:exposed_copper_bars", "minecraft:weathered_copper_bars", "minecraft:oxidized_copper_bars", 
+    "minecraft:waxed_copper_bars", "minecraft:waxed_exposed_copper_bars", "minecraft:waxed_weathered_copper_bars", "minecraft:waxed_oxidized_copper_bars", 
+    "minecraft:copper_chain", "minecraft:exposed_copper_chain", "minecraft:weathered_copper_chain", "minecraft:oxidized_copper_chain", 
+    "copperagebackport:copper_button", "copperagebackport:exposed_copper_button", "copperagebackport:weathered_copper_button", "copperagebackport:oxidized_copper_button", 
+    "copperagebackport:waxed_copper_button", "copperagebackport:waxed_exposed_copper_button", "copperagebackport:waxed_weathered_copper_button", "copperagebackport:waxed_oxidized_copper_button",
+    "minecraft:waxed_copper_chain", "minecraft:waxed_exposed_copper_chain", "minecraft:waxed_weathered_copper_chain", "minecraft:waxed_oxidized_copper_chain",
+    "caverns_and_chasms:copper_shovel", "caverns_and_chasms:copper_pickaxe", "caverns_and_chasms:copper_axe", "caverns_and_chasms:copper_hoe", "caverns_and_chasms:copper_sword", 
+    "caverns_and_chasms:copper_helmet", "caverns_and_chasms:copper_chestplate", "caverns_and_chasms:copper_leggings", "caverns_and_chasms:copper_boots", "caverns_and_chasms:copper_horse_armor", 
+    "vista:crystalline", "cratedelight:gunpowder_bag", 
+    "caverns_and_chasms:copper_nugget", "caverns_and_chasms:copper_golem_spawn_egg", "caverns_and_chasms:oxidized_copper_golem", "caverns_and_chasms:waxed_oxidized_copper_golem",
+    "farmersdelight:rope", "farmersdelight:rope_fence", "farmersdelight:rope_fence_gate"
+  ]
+}

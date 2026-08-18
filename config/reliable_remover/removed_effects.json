@@ -1,0 +1,8 @@
+[
+    {
+        "action": "remove",
+        "effects": [
+            "apothic_attributes:flying"
+        ]
+    }
+]

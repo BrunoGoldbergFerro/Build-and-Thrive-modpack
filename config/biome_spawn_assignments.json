@@ -1,0 +1,9 @@
+{
+  "minecraft:rabbit": [
+    "minecraft:rabbit"
+  ],
+  "minecraft:zombie_villager": [
+    "0_remove_default_biome_spawns",
+    "minecraft:zombie_villager"
+  ]
+}

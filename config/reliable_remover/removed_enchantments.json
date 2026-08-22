@@ -1,0 +1,10 @@
+[
+    {
+        "action": "remove_enchantment",
+        "enchantments": [
+            "minecraft:sharpness",
+            "minecraft:mending",
+            "minecraft:protection"
+        ]
+    }
+]

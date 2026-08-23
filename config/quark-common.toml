@@ -329,7 +329,7 @@
 [tools]
 	Abacus = true
 	"Ambient Discs" = true
-	"Ancient Tomes" = false
+	"Ancient Tomes" = true
 	"Beacon Redirection" = true
 	"Bottled Cloud" = false
 	"Color Runes" = true
@@ -355,12 +355,12 @@
 
 	[tools.ancient_tomes]
 		#Format is lootTable,weight. i.e. "minecraft:chests/stronghold_library,30"
-		"Loot Tables" = ["minecraft:chests/stronghold_library,20", "minecraft:chests/simple_dungeon,20", "minecraft:chests/bastion_treasure,25", "minecraft:chests/woodland_mansion,15", "minecraft:chests/nether_bridge,0", "minecraft:chests/underwater_ruin_big,0", "minecraft:chests/underwater_ruin_small,0", "minecraft:chests/ancient_city,4", "quark:misc/monster_box,5"]
+		"Loot Tables" = ["minecraft:chests/stronghold_library,20", "minecraft:chests/simple_dungeon,20", "minecraft:chests/bastion_treasure,25", "minecraft:chests/woodland_mansion,25", "minecraft:chests/nether_bridge,0", "minecraft:chests/underwater_ruin_big,0", "minecraft:chests/underwater_ruin_small,0", "minecraft:chests/ancient_city,4", "quark:misc/monster_box,5", "caverns_and_chasms:chests/vault,15", "minecraft:chests/trial_chambers/reward_ominous_rare,15"]
 		"Item Quality" = 2
 		"Normal Upgrade Cost" = 10
 		"Limit Break Upgrade Extra Cost" = 20
 		"Max Limit Break Levels" = 1
-		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:sharpness", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping_edge", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing", "minecraft:density", "minecraft:breach", "minecraft:wind_burst"]
+		"Valid Enchantments" = ["minecraft:feather_falling", "minecraft:thorns", "minecraft:smite", "minecraft:bane_of_arthropods", "minecraft:knockback", "minecraft:fire_aspect", "minecraft:looting", "minecraft:sweeping_edge", "minecraft:efficiency", "minecraft:unbreaking", "minecraft:fortune", "minecraft:power", "minecraft:punch", "minecraft:luck_of_the_sea", "minecraft:lure", "minecraft:loyalty", "minecraft:riptide", "minecraft:impaling", "minecraft:piercing", "minecraft:density", "minecraft:breach", "minecraft:wind_burst", "caverns_and_chasms:extending", "farmersdelight:backstabbing", "minecraft:swift_sneak"]
 		"Overleveled Books Glow Rainbow" = true
 		#When enabled, Efficiency VI Diamond and Netherite pickaxes can instamine Deepslate when under Haste 2
 		"Deepslate Tweak" = true

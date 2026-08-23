@@ -4,7 +4,8 @@
         "enchantments": [
             "minecraft:sharpness",
             "minecraft:mending",
-            "minecraft:protection"
+            "minecraft:protection",
+            "caverns_and_chasms:sky_set"
         ]
     }
 ]

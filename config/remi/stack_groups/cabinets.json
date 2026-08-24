@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:cabinets",
+  "type": "remi:group",
+  "contents": [
+    "#farmersdelight:cabinets"
+  ]
+}

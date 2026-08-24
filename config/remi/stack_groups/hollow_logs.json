@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:hollow_logs",
+  "type": "remi:group",
+  "contents": [
+    "#quark:hollow_logs"
+  ]
+}

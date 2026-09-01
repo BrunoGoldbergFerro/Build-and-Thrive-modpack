@@ -1,0 +1,41 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:not",
+      "value": {
+        "condition": "fabric:tag_empty",
+        "tag": "supplementaries:altimeters"
+      }
+    },
+    {
+      "condition": "supplementaries:flag",
+      "flag": "slice_map"
+    }
+  ],
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "supplementaries:altimeters"
+      }
+    },
+    {
+      "type": "supplementaries:flag",
+      "flag": "slice_map"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "caverns_and_chasms:depth_gauge"
+    },
+    {
+      "item": "minecraft:map"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:slice_map",
+    "count": 1
+  }
+}

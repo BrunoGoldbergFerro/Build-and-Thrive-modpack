@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cratedelight:pufferfish_crate",
+    "cratedelight:salmon_crate",
+    "cratedelight:cod_crate",
+    "cratedelight:tropical_fish_crate"
+  ]
+}

@@ -1,0 +1,1 @@
+execute as @e[type=tolerable_creepers:creepie] unless data entity @s {PersistenceRequired:1b} run data modify entity @s PersistenceRequired set value 1b

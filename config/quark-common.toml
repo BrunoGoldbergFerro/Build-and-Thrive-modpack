@@ -372,7 +372,7 @@
 		#Allows combining tomes with normal books
 		"Combine With Books" = true
 		#Whether a sanity check is performed on the valid enchantments. If this is turned off, enchantments such as Silk Touch will be allowed to generate Ancient Tomes, if explicitly added to the Valid Enchantments.
-		"Sanity Check" = true
+		"Sanity Check" = false
 
 	[tools.beacon_redirection]
 		"Horizontal Move Limit" = 64
@@ -606,13 +606,13 @@
 
 	[tweaks.gold_tools_have_fortune]
 		#Allowed values: [0,)
-		"Fortune Level" = 2
+		"Fortune Level" = 0
 		#Allowed values: [0,4]
 		"Harvest Level" = 2
 		"Display Baked Enchantments In Tooltip" = true
 		"Italic Tooltip" = true
 		#Enchantments other than Gold's Fortune/Looting to bake into items. Format is "item+enchant@level", such as "minecraft:stick+minecraft:sharpness@10".
-		"Item Enchantments" = []
+		"Item Enchantments" = ["minecraft:golden_pickaxe+minecraft:mending@1", "minecraft:golden_axe+minecraft:mending@1", "minecraft:golden_shovel+minecraft:mending@1", "minecraft:golden_sword+minecraft:mending@1", "minecraft:golden_hoe+minecraft:mending@1", "farmersdelight:golden_knife+minecraft:mending@1"]
 
 	[tweaks.grab_chickens]
 		"Needs No Helmet" = true
@@ -2009,3 +2009,5 @@
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
+		#Set this to true to make the totem drop everything when punched once
+		"Drop All Items On Hit" = false

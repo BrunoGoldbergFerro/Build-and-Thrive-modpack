@@ -1,0 +1,15 @@
+{
+  "type": "autowork:spilling",
+  "block": {
+    "item": "caverns_and_chasms:rhyolite"
+  },
+  "fluid": {
+    "id": "minecraft:lava",
+    "amount": 100
+  },
+  "result": {
+    "id": "caverns_and_chasms:magmatic_rhyolite"
+  }
+}
+
+

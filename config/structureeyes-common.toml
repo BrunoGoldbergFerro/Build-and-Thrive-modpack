@@ -1,0 +1,31 @@
+#Assign items to structures here — no datapacks needed.
+[mappings]
+	#One line per assignment. Right-clicking <item> sends an eye toward the nearest <structure>.
+	#Format:  <item> > <structure>     (optionally add  @ <dimension>  to restrict where it works)
+	#  * IDs look like  modid:name  (e.g. minecraft:ender_eye).
+	#  * Put # before a structure to match a whole group, e.g. #minecraft:village.
+	#Examples:
+	#  minecraft:ender_eye > #minecraft:village
+	#  minecraft:blaze_rod > minecraft:fortress @ minecraft:the_nether
+	#Consume / cooldown / search radius for these lines come from the [defaults] section below.
+	mappings = ["kubejs:magnetic_eye > caverns_and_chasms:tin_monolith @ minecraft:overworld"]
+
+#Applied to every mapping created above. (Datapack JSON mappings set these per-entry instead.)
+[defaults]
+	#Whether the item is used up on a successful locate. false = reusable.
+	consumeOnUse = true
+	#Cooldown after a successful locate, in ticks (20 = 1 second). 0 = none.
+	# Default: 0
+	# Range: > 0
+	cooldownTicks = 0
+	#How far to search, in chunks.
+	# Default: 100
+	# Range: 1 ~ 10000
+	searchRadius = 100
+
+[messages]
+	#If true, using an item in the wrong dimension tells the player the structure is elsewhere
+	#(works for the Nether, End, and modded dimensions). Requires the mapping to set a dimension.
+	wrongDimensionMessage = false
+	#If true, tells the player when no matching structure was found within range.
+	notFoundMessage = false

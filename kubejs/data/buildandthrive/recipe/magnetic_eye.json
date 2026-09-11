@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ender_pearl"
+    },
+    {
+      "item": "caverns_and_chasms:tin_ingot"
+    }
+  ],
+  "result": {
+    "id": "kubejs:magnetic_eye"
+  }
+}

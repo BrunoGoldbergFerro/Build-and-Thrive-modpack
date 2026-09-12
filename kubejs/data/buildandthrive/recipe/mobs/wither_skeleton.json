@@ -1,0 +1,11 @@
+{
+  "type": "justenoughbreeding:transformation",
+  "mod": "witherturnsskeletons",
+  "inputs": [
+    {
+      "item": "minecraft:wither_rose"
+    }
+  ],
+  "input_entity": "minecraft:skeleton",
+  "output_entity": "minecraft:wither_skeleton"
+}

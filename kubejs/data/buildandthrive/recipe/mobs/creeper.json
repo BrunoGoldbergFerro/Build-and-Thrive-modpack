@@ -1,0 +1,11 @@
+{
+  "type": "justenoughbreeding:transformation",
+  "mod": "tolerable_creepers",
+  "inputs": [
+    {
+      "item": "minecraft:clock"
+    }
+  ],
+  "input_entity": "tolerable_creepers:creepie",
+  "output_entity": "minecraft:creeper"
+}

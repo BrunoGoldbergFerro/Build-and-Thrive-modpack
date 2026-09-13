@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "allay_deliver_item_to_player": {
+      "trigger": "minecraft:thrown_item_picked_up_by_player",
+      "conditions": {
+        "entity": [
+          {
+            "predicate": {
+              "type": "minecraft:allay"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "allay_deliver_item_to_player"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "buildandthrive:monsters/tame_an_animal",
+  "display": {
+    "hidden": true,
+    "icon": {
+      "id": "minecraft:allay_spawn_egg"
+    },
+    "title": "You\u0027ve Got a Friend in Me",
+    "description": "Have an Allay deliver items to you",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:monsters/tame_an_animal"
+  ]
+}

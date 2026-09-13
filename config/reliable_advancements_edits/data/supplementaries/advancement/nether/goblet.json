@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "parent": "buildandthrive:magic/brew_potion",
+  "display": {
+    "hidden": true,
+    "icon": {
+      "id": "supplementaries:goblet"
+    },
+    "title": "Consume the Concoction Chalice",
+    "description": "Drink from a Chalice",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:magic/brew_potion"
+  ]
+}

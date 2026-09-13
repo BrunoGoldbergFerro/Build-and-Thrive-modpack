@@ -1,0 +1,509 @@
+{
+  "criteria": {
+    "minecraft:sheep": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:sheep"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:turtle": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": [
+          {
+            "predicate": {
+              "type": "minecraft:turtle"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ],
+        "partner": [
+          {
+            "predicate": {
+              "type": "minecraft:turtle"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:fox": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:fox"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:ocelot": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:ocelot"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:llama": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:llama"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:mooshroom": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:mooshroom"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:armadillo": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:armadillo"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "quark:foxhound": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "quark:foxhound"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:pig": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:pig"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "quark:crab": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "quark:crab"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:mule": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:mule"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:strider": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:strider"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:horse": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:horse"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:goat": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:goat"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:wolf": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:wolf"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:cat": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:cat"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:hoglin": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:hoglin"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:chicken": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:chicken"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:rabbit": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:rabbit"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:donkey": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:donkey"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:cow": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:cow"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:camel": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:camel"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:axolotl": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:axolotl"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:bee": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:bee"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:panda": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "child": [
+          {
+            "predicate": {
+              "type": "minecraft:panda"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:frog": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": [
+          {
+            "predicate": {
+              "type": "minecraft:frog"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ],
+        "partner": [
+          {
+            "predicate": {
+              "type": "minecraft:frog"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    },
+    "minecraft:sniffer": {
+      "trigger": "minecraft:bred_animals",
+      "conditions": {
+        "parent": [
+          {
+            "predicate": {
+              "type": "minecraft:sniffer"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ],
+        "partner": [
+          {
+            "predicate": {
+              "type": "minecraft:sniffer"
+            },
+            "entity": "this",
+            "condition": "minecraft:entity_properties"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "minecraft:horse"
+    ],
+    [
+      "minecraft:donkey"
+    ],
+    [
+      "minecraft:mule"
+    ],
+    [
+      "minecraft:sheep"
+    ],
+    [
+      "minecraft:cow"
+    ],
+    [
+      "minecraft:mooshroom"
+    ],
+    [
+      "minecraft:pig"
+    ],
+    [
+      "minecraft:chicken"
+    ],
+    [
+      "minecraft:wolf"
+    ],
+    [
+      "minecraft:ocelot"
+    ],
+    [
+      "minecraft:rabbit"
+    ],
+    [
+      "minecraft:llama"
+    ],
+    [
+      "minecraft:cat"
+    ],
+    [
+      "minecraft:panda"
+    ],
+    [
+      "minecraft:fox"
+    ],
+    [
+      "minecraft:bee"
+    ],
+    [
+      "minecraft:hoglin"
+    ],
+    [
+      "minecraft:strider"
+    ],
+    [
+      "minecraft:goat"
+    ],
+    [
+      "minecraft:axolotl"
+    ],
+    [
+      "minecraft:camel"
+    ],
+    [
+      "minecraft:armadillo"
+    ],
+    [
+      "minecraft:turtle"
+    ],
+    [
+      "minecraft:frog"
+    ],
+    [
+      "minecraft:sniffer"
+    ],
+    [
+      "quark:crab"
+    ],
+    [
+      "quark:foxhound"
+    ]
+  ],
+  "parent": "buildandthrive:husbandry/breed_an_animal",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:golden_carrot"
+    },
+    "title": "Two by Two",
+    "description": "Breed all the animals!"
+  },
+  "rewards": {
+    "loot": [
+      "buildandthrive:advancement/12_turquoise"
+    ]
+  },
+  "parents": [
+    "buildandthrive:husbandry/breed_an_animal"
+  ]
+}

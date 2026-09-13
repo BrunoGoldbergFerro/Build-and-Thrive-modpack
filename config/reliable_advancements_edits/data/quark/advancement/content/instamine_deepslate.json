@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "instamine_deepslate": {
+      "trigger": "quark:instamine_deepslate"
+    }
+  },
+  "requirements": [
+    [
+      "instamine_deepslate"
+    ]
+  ],
+  "parent": "quark:content/overlevel_enchant",
+  "display": {
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:deepslate"
+    },
+    "title": "Instant Limit Breaker",
+    "description": "Mine Deepslate instantly using Efficiency VI and Haste II"
+  },
+  "parents": [
+    "quark:content/overlevel_enchant"
+  ]
+}

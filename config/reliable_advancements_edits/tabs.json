@@ -1,0 +1,2533 @@
+{
+  "version": 1,
+  "tabs": {
+    "minecraft:story/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 0,
+      "deleted": true,
+      "roots": [
+        "minecraft:story/root"
+      ],
+      "positions": {
+        "quark:content/overlevel_enchant": [
+          224,
+          54
+        ],
+        "quark:content/apply_color_rune": [
+          224,
+          27
+        ],
+        "minecraft:story/shiny_gear": [
+          192,
+          81
+        ],
+        "minecraft:story/cure_zombie_villager": [
+          224,
+          108
+        ],
+        "minecraft:story/deflect_arrow": [
+          160,
+          148
+        ],
+        "quark:content/get_all_corundum": [
+          128,
+          13
+        ],
+        "minecraft:story/iron_tools": [
+          128,
+          40
+        ],
+        "minecraft:story/root": [
+          0,
+          81
+        ],
+        "minecraft:story/form_obsidian": [
+          160,
+          121
+        ],
+        "supplementaries:story/unenchanter": [
+          224,
+          81
+        ],
+        "minecraft:story/obtain_armor": [
+          128,
+          148
+        ],
+        "minecraft:story/mine_stone": [
+          32,
+          81
+        ],
+        "minecraft:story/lava_bucket": [
+          128,
+          121
+        ],
+        "quark:content/throw_pickarang": [
+          192,
+          0
+        ],
+        "minecraft:story/enter_the_nether": [
+          192,
+          121
+        ],
+        "minecraft:story/enter_the_end": [
+          256,
+          135
+        ],
+        "minecraft:story/enchant_item": [
+          192,
+          54
+        ],
+        "quark:content/retreive_flamerang": [
+          224,
+          0
+        ],
+        "quark:content/wear_full_rainbow": [
+          256,
+          27
+        ],
+        "minecraft:story/mine_diamond": [
+          160,
+          40
+        ],
+        "minecraft:story/upgrade_tools": [
+          64,
+          81
+        ],
+        "minecraft:story/smelt_iron": [
+          96,
+          81
+        ],
+        "minecraft:story/follow_ender_eye": [
+          224,
+          135
+        ],
+        "quark:content/instamine_deepslate": [
+          256,
+          54
+        ]
+      }
+    },
+    "minecraft:adventure/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 1,
+      "deleted": true,
+      "roots": [
+        "minecraft:adventure/root"
+      ],
+      "positions": {
+        "quark:content/get_own_head": [
+          64,
+          499
+        ],
+        "minecraft:adventure/walk_on_powder_snow_with_leather_boots": [
+          64,
+          850
+        ],
+        "minecraft:adventure/overoverkill": [
+          64,
+          580
+        ],
+        "supplementaries:adventure/road_sign": [
+          32,
+          742
+        ],
+        "minecraft:adventure/craft_decorated_pot_using_only_sherds": [
+          64,
+          769
+        ],
+        "supplementaries:adventure/globe": [
+          64,
+          1012
+        ],
+        "minecraft:adventure/play_jukebox_in_meadows": [
+          64,
+          823
+        ],
+        "minecraft:adventure/sniper_duel": [
+          96,
+          364
+        ],
+        "minecraft:adventure/revaulting": [
+          96,
+          607
+        ],
+        "minecraft:adventure/salvage_sherd": [
+          32,
+          769
+        ],
+        "minecraft:adventure/hero_of_the_village": [
+          64,
+          1174
+        ],
+        "caverns_and_chasms:adventure/dont_move": [
+          64,
+          243
+        ],
+        "minecraft:adventure/spyglass_at_parrot": [
+          64,
+          904
+        ],
+        "caverns_and_chasms:adventure/break_item_atoning": [
+          64,
+          0
+        ],
+        "quark:content/make_stoneling": [
+          96,
+          445
+        ],
+        "caverns_and_chasms:nether/equip_monocle": [
+          64,
+          1269
+        ],
+        "minecraft:adventure/throw_trident": [
+          64,
+          391
+        ],
+        "caverns_and_chasms:husbandry/obtain_turquoise": [
+          32,
+          1255
+        ],
+        "caverns_and_chasms:adventure/smelt_copper": [
+          32,
+          931
+        ],
+        "caverns_and_chasms:adventure/thunderstruck": [
+          64,
+          958
+        ],
+        "caverns_and_chasms:adventure/ricochet_bullseye": [
+          64,
+          189
+        ],
+        "minecraft:adventure/crafters_crafting_crafters": [
+          32,
+          108
+        ],
+        "minecraft:adventure/bullseye": [
+          96,
+          337
+        ],
+        "minecraft:adventure/summon_iron_golem": [
+          64,
+          1039
+        ],
+        "caverns_and_chasms:adventure/ricochet_hit_yourself": [
+          96,
+          216
+        ],
+        "quark:content/pathfinder_map_center": [
+          64,
+          1093
+        ],
+        "minecraft:adventure/totem_of_undying": [
+          64,
+          418
+        ],
+        "caverns_and_chasms:adventure/find_monolith": [
+          32,
+          162
+        ],
+        "caverns_and_chasms:adventure/repair_pants_with_zirconia": [
+          96,
+          67
+        ],
+        "minecraft:adventure/avoid_vibration": [
+          32,
+          27
+        ],
+        "caverns_and_chasms:adventure/half_court": [
+          64,
+          108
+        ],
+        "caverns_and_chasms:adventure/tune_a_fish": [
+          96,
+          985
+        ],
+        "caverns_and_chasms:adventure/kill_bat_with_vampirism": [
+          64,
+          297
+        ],
+        "minecraft:adventure/kill_a_mob": [
+          32,
+          371
+        ],
+        "minecraft:adventure/brush_armadillo": [
+          32,
+          81
+        ],
+        "quark:content/crawl_in_hollow_log": [
+          32,
+          1201
+        ],
+        "minecraft:adventure/honey_block_slide": [
+          32,
+          301
+        ],
+        "caverns_and_chasms:adventure/open_large_storage_duct": [
+          64,
+          162
+        ],
+        "minecraft:adventure/ol_betsy": [
+          32,
+          688
+        ],
+        "minecraft:adventure/read_power_of_chiseled_bookshelf": [
+          32,
+          715
+        ],
+        "minecraft:adventure/adventuring_time": [
+          64,
+          796
+        ],
+        "minecraft:adventure/sleep_in_bed": [
+          32,
+          823
+        ],
+        "minecraft:adventure/trim_with_all_exclusive_armor_patterns": [
+          64,
+          1147
+        ],
+        "minecraft:adventure/very_very_frightening": [
+          96,
+          391
+        ],
+        "caverns_and_chasms:adventure/atone_item": [
+          32,
+          0
+        ],
+        "quark:content/get_forgotten_hat": [
+          64,
+          472
+        ],
+        "minecraft:adventure/minecraft_trials_edition": [
+          32,
+          580
+        ],
+        "caverns_and_chasms:adventure/use_tuning_fork": [
+          64,
+          985
+        ],
+        "minecraft:adventure/root": [
+          0,
+          654
+        ],
+        "caverns_and_chasms:adventure/bejeweled_anvil_repair": [
+          32,
+          54
+        ],
+        "caverns_and_chasms:adventure/dismantle_item": [
+          64,
+          1120
+        ],
+        "minecraft:adventure/shoot_arrow": [
+          64,
+          351
+        ],
+        "caverns_and_chasms:adventure/ricochet_hit": [
+          64,
+          216
+        ],
+        "minecraft:adventure/kill_mob_near_sculk_catalyst": [
+          64,
+          324
+        ],
+        "caverns_and_chasms:adventure/hatch_saddled_grazer": [
+          64,
+          135
+        ],
+        "minecraft:adventure/kill_all_mobs": [
+          64,
+          270
+        ],
+        "minecraft:adventure/lightning_rod_with_villager_no_fire": [
+          64,
+          877
+        ],
+        "minecraft:adventure/two_birds_one_arrow": [
+          64,
+          688
+        ],
+        "minecraft:adventure/heart_transplanter": [
+          32,
+          231
+        ],
+        "minecraft:adventure/spyglass_at_dragon": [
+          128,
+          904
+        ],
+        "minecraft:nether/use_lodestone": [
+          32,
+          1309
+        ],
+        "caverns_and_chasms:husbandry/use_unicorn_horn": [
+          64,
+          1242
+        ],
+        "minecraft:adventure/whos_the_pillager_now": [
+          64,
+          715
+        ],
+        "minecraft:adventure/trade": [
+          32,
+          1053
+        ],
+        "minecraft:adventure/lighten_up": [
+          64,
+          553
+        ],
+        "minecraft:adventure/blowback": [
+          64,
+          526
+        ],
+        "minecraft:adventure/spyglass_at_ghast": [
+          96,
+          904
+        ],
+        "minecraft:adventure/trim_with_any_armor_pattern": [
+          32,
+          1134
+        ],
+        "minecraft:adventure/voluntary_exile": [
+          32,
+          1174
+        ],
+        "quark:content/tatami_gaeshi": [
+          32,
+          1228
+        ],
+        "minecraft:adventure/trade_at_world_height": [
+          64,
+          1066
+        ],
+        "minecraft:adventure/arbalistic": [
+          64,
+          661
+        ],
+        "quark:content/get_diamond_heart": [
+          64,
+          445
+        ],
+        "minecraft:adventure/under_lock_and_key": [
+          64,
+          607
+        ],
+        "caverns_and_chasms:adventure/summon_copper_golem": [
+          64,
+          931
+        ],
+        "crafty_hands:main/dont_do_that": [
+          32,
+          1282
+        ],
+        "minecraft:adventure/who_needs_rockets": [
+          64,
+          634
+        ],
+        "caverns_and_chasms:adventure/copy_music_disc": [
+          96,
+          40
+        ],
+        "minecraft:adventure/fall_from_world_height": [
+          32,
+          135
+        ],
+        "caverns_and_chasms:adventure/repair_with_zirconia": [
+          64,
+          54
+        ]
+      }
+    },
+    "minecraft:nether/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 3,
+      "deleted": true,
+      "roots": [
+        "minecraft:nether/root"
+      ],
+      "positions": {
+        "supplementaries:nether/goblet": [
+          128,
+          175
+        ],
+        "minecraft:nether/obtain_crying_obsidian": [
+          32,
+          216
+        ],
+        "minecraft:nether/charge_respawn_anchor": [
+          64,
+          216
+        ],
+        "minecraft:nether/ride_strider": [
+          32,
+          297
+        ],
+        "minecraft:nether/root": [
+          0,
+          148
+        ],
+        "minecraft:nether/find_fortress": [
+          32,
+          108
+        ],
+        "minecraft:nether/create_beacon": [
+          128,
+          81
+        ],
+        "minecraft:nether/obtain_ancient_debris": [
+          32,
+          175
+        ],
+        "quark:content/redirect_beacon": [
+          160,
+          67
+        ],
+        "minecraft:nether/distract_piglin": [
+          32,
+          0
+        ],
+        "minecraft:nether/create_full_beacon": [
+          160,
+          94
+        ],
+        "minecraft:nether/summon_wither": [
+          96,
+          81
+        ],
+        "minecraft:nether/all_effects": [
+          160,
+          148
+        ],
+        "minecraft:nether/fast_travel": [
+          32,
+          27
+        ],
+        "quark:content/foxhound_speed_up_furnace": [
+          160,
+          121
+        ],
+        "minecraft:nether/get_wither_skull": [
+          64,
+          81
+        ],
+        "quark:content/watcher_center": [
+          96,
+          121
+        ],
+        "minecraft:nether/obtain_blaze_rod": [
+          64,
+          135
+        ],
+        "minecraft:nether/return_to_sender": [
+          32,
+          243
+        ],
+        "minecraft:nether/brew_potion": [
+          96,
+          148
+        ],
+        "minecraft:nether/loot_bastion": [
+          64,
+          54
+        ],
+        "minecraft:nether/find_bastion": [
+          32,
+          54
+        ],
+        "minecraft:nether/netherite_armor": [
+          64,
+          189
+        ],
+        "caverns_and_chasms:nether/necromium_armor": [
+          64,
+          162
+        ],
+        "quark:content/tame_foxhound": [
+          128,
+          121
+        ],
+        "minecraft:nether/ride_strider_in_overworld_lava": [
+          64,
+          310
+        ],
+        "caverns_and_chasms:nether/ride_boat_with_deeper": [
+          32,
+          270
+        ],
+        "minecraft:nether/uneasy_alliance": [
+          64,
+          243
+        ],
+        "minecraft:nether/explore_nether": [
+          64,
+          283
+        ],
+        "minecraft:nether/all_potions": [
+          128,
+          148
+        ]
+      }
+    },
+    "minecraft:end/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 4,
+      "deleted": true,
+      "roots": [
+        "minecraft:end/root"
+      ],
+      "positions": {
+        "minecraft:end/kill_dragon": [
+          32,
+          40
+        ],
+        "minecraft:end/root": [
+          0,
+          40
+        ],
+        "minecraft:end/elytra": [
+          128,
+          54
+        ],
+        "minecraft:end/levitate": [
+          128,
+          81
+        ],
+        "minecraft:end/find_end_city": [
+          96,
+          67
+        ],
+        "minecraft:end/enter_end_gateway": [
+          64,
+          54
+        ],
+        "minecraft:end/dragon_breath": [
+          64,
+          0
+        ],
+        "minecraft:end/dragon_egg": [
+          64,
+          27
+        ],
+        "quark:content/use_viaduct": [
+          96,
+          40
+        ],
+        "minecraft:end/respawn_dragon": [
+          64,
+          81
+        ]
+      }
+    },
+    "buildandthrive:story/root": {
+      "background": "minecraft:textures/block/bricks.png",
+      "index": 1,
+      "roots": [
+        "buildandthrive:story/root"
+      ],
+      "positions": {
+        "buildandthrive:story/root": [
+          0,
+          43
+        ],
+        "buildandthrive:story/get_copper": [
+          32,
+          87
+        ],
+        "buildandthrive:story/get_armor": [
+          64,
+          112
+        ],
+        "buildandthrive:story/smelt_iron": [
+          64,
+          74
+        ],
+        "buildandthrive:story/smelt_gold": [
+          128,
+          100
+        ],
+        "buildandthrive:story/use_lodestone": [
+          96,
+          125
+        ],
+        "buildandthrive:story/mine_diamond": [
+          99,
+          64
+        ],
+        "buildandthrive:story/smelt_silver": [
+          131,
+          131
+        ],
+        "buildandthrive:story/get_stone": [
+          32,
+          0
+        ],
+        "buildandthrive:story/throw_pickarang": [
+          143,
+          38
+        ],
+        "buildandthrive:story/cure_zombie_villager": [
+          292,
+          100
+        ],
+        "buildandthrive:story/get_deepslate": [
+          85,
+          0
+        ],
+        "buildandthrive:story/enchant_item": [
+          142,
+          68
+        ],
+        "buildandthrive:story/brew_potion": [
+          211,
+          50
+        ],
+        "buildandthrive:story/form_obsidian": [
+          141,
+          1
+        ],
+        "buildandthrive:story/enter_the_nether": [
+          182,
+          10
+        ],
+        "buildandthrive:story/obtain_ancient_debris": [
+          241,
+          0
+        ],
+        "buildandthrive:story/wrench": [
+          177,
+          138
+        ],
+        "minecraft:nether/fast_travel": [
+          222,
+          -29
+        ],
+        "minecraft:nether/obtain_ancient_debris": [
+          240,
+          0
+        ],
+        "caverns_and_chasms:nether/necromium_armor": [
+          274,
+          -27
+        ],
+        "minecraft:nether/netherite_armor": [
+          274,
+          16
+        ]
+      }
+    },
+    "farmersdelight:main/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "farmersdelight:main/root"
+      ],
+      "positions": {
+        "farmersdelight:main/eat_nourishing_food": [
+          96,
+          162
+        ],
+        "farmersdelight:main/master_chef": [
+          160,
+          162
+        ],
+        "farmersdelight:main/plant_all_crops": [
+          96,
+          135
+        ],
+        "farmersdelight:main/use_cutting_board": [
+          64,
+          54
+        ],
+        "farmersdelight:main/harvest_straw": [
+          64,
+          27
+        ],
+        "farmersdelight:main/place_cooking_pot": [
+          64,
+          162
+        ],
+        "farmersdelight:main/hit_raider_with_rotten_tomato": [
+          96,
+          108
+        ],
+        "farmersdelight:main/get_fd_seed": [
+          32,
+          108
+        ],
+        "farmersdelight:main/plant_rice": [
+          64,
+          135
+        ],
+        "farmersdelight:main/get_ham": [
+          64,
+          0
+        ],
+        "farmersdelight:main/get_mushroom_colony": [
+          64,
+          81
+        ],
+        "farmersdelight:main/place_feast": [
+          128,
+          162
+        ],
+        "farmersdelight:main/get_rich_soil": [
+          128,
+          27
+        ],
+        "farmersdelight:main/root": [
+          0,
+          101
+        ],
+        "farmersdelight:main/harvest_ropelogged_tomato": [
+          64,
+          108
+        ],
+        "farmersdelight:main/place_organic_compost": [
+          96,
+          27
+        ],
+        "farmersdelight:main/use_skillet": [
+          64,
+          189
+        ],
+        "farmersdelight:main/craft_knife": [
+          32,
+          27
+        ],
+        "farmersdelight:main/place_skillet": [
+          96,
+          189
+        ],
+        "farmersdelight:main/obtain_netherite_knife": [
+          96,
+          54
+        ],
+        "farmersdelight:main/place_campfire": [
+          32,
+          175
+        ]
+      }
+    },
+    "buildandthrive:magic/root": {
+      "background": "minecraft:textures/block/lapis_block.png",
+      "index": 5,
+      "roots": [
+        "buildandthrive:magic/root"
+      ],
+      "positions": {
+        "buildandthrive:magic/root": [
+          0,
+          67
+        ],
+        "buildandthrive:magic/create_beacon": [
+          32,
+          67
+        ],
+        "buildandthrive:magic/brew_potion": [
+          32,
+          121
+        ],
+        "buildandthrive:magic/create_full_beacon": [
+          64,
+          81
+        ],
+        "buildandthrive:magic/enchant_item": [
+          32,
+          13
+        ],
+        "buildandthrive:magic/all_potions": [
+          87,
+          109
+        ],
+        "buildandthrive:magic/silk_touch_hive": [
+          64,
+          0
+        ],
+        "buildandthrive:magic/atone_item": [
+          64,
+          27
+        ],
+        "buildandthrive:magic/cure_zombie_villager": [
+          87,
+          143
+        ],
+        "buildandthrive:magic/redirect_beacon": [
+          64,
+          54
+        ],
+        "buildandthrive:magic/break_item_atoning": [
+          96,
+          27
+        ],
+        "buildandthrive:magic/instamine_deepslate": [
+          32,
+          -29
+        ],
+        "quark:content/overlevel_enchant": [
+          63,
+          -31
+        ],
+        "quark:content/instamine_deepslate": [
+          96,
+          -31
+        ],
+        "quark:content/get_all_corundum": [
+          96,
+          81
+        ],
+        "supplementaries:nether/goblet": [
+          53,
+          167
+        ]
+      }
+    },
+    "buildandthrive:husbandry/root": {
+      "background": "minecraft:textures/block/hay_block_side.png",
+      "index": 5,
+      "roots": [
+        "buildandthrive:husbandry/root"
+      ],
+      "positions": {
+        "buildandthrive:husbandry/root": [
+          -53,
+          51
+        ],
+        "buildandthrive:husbandry/plant_seed": [
+          -2,
+          55
+        ],
+        "buildandthrive:husbandry/harvest_straw": [
+          64,
+          0
+        ],
+        "buildandthrive:husbandry/plant_all_crops": [
+          56,
+          47
+        ],
+        "buildandthrive:husbandry/breed_an_animal": [
+          64,
+          81
+        ],
+        "buildandthrive:husbandry/breed_all_animals": [
+          171,
+          123
+        ],
+        "buildandthrive:husbandry/try_to_sleep_in_bed": [
+          170,
+          77
+        ],
+        "buildandthrive:husbandry/get_rich_soil": [
+          113,
+          -27
+        ],
+        "buildandthrive:husbandry/get_bundle": [
+          166,
+          34
+        ],
+        "buildandthrive:husbandry/get_ham": [
+          115,
+          29
+        ],
+        "buildandthrive:husbandry/safely_harvest_honey": [
+          72,
+          135
+        ],
+        "buildandthrive:husbandry/silk_touch_hive": [
+          100,
+          163
+        ],
+        "buildandthrive:husbandry/soap": [
+          145,
+          157
+        ],
+        "farmersdelight:main/eat_nourishing_food": [
+          29,
+          112
+        ],
+        "farmersdelight:main/place_feast": [
+          47,
+          165
+        ],
+        "farmersdelight:main/master_chef": [
+          77,
+          195
+        ],
+        "farmersdelight:main/get_ham": [
+          108,
+          216
+        ],
+        "farmersdelight:main/obtain_netherite_knife": [
+          128,
+          302
+        ],
+        "farmersdelight:main/get_rich_soil": [
+          196,
+          244
+        ],
+        "farmersdelight:main/place_organic_compost": [
+          159,
+          244
+        ],
+        "farmersdelight:main/harvest_straw": [
+          119,
+          243
+        ],
+        "farmersdelight:main/craft_knife": [
+          13,
+          243
+        ],
+        "farmersdelight:main/use_cutting_board": [
+          96,
+          270
+        ],
+        "minecraft:husbandry/tactical_fishing": [
+          52,
+          -18
+        ],
+        "minecraft:husbandry/fishy_business": [
+          -3,
+          5
+        ],
+        "quark:content/crab_in_a_bucket": [
+          97,
+          -52
+        ],
+        "minecraft:husbandry/axolotl_in_a_bucket": [
+          145,
+          -26
+        ],
+        "minecraft:husbandry/kill_axolotl_target": [
+          180,
+          -52
+        ],
+        "minecraft:husbandry/tadpole_in_a_bucket": [
+          65,
+          -69
+        ],
+        "minecraft:husbandry/froglights": [
+          144,
+          -121
+        ],
+        "minecraft:husbandry/leash_all_frog_variants": [
+          79,
+          -100
+        ]
+      }
+    },
+    "minecraft:husbandry/root": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 2,
+      "deleted": true,
+      "roots": [
+        "minecraft:husbandry/root"
+      ],
+      "positions": {
+        "minecraft:husbandry/fishy_business": [
+          32,
+          135
+        ],
+        "caverns_and_chasms:husbandry/obtain_ancient_hoes": [
+          96,
+          297
+        ],
+        "minecraft:husbandry/wax_on": [
+          64,
+          351
+        ],
+        "minecraft:husbandry/remove_wolf_armor": [
+          64,
+          540
+        ],
+        "caverns_and_chasms:husbandry/kill_with_rat": [
+          96,
+          513
+        ],
+        "minecraft:husbandry/tactical_fishing": [
+          64,
+          135
+        ],
+        "minecraft:husbandry/make_a_sign_glow": [
+          32,
+          162
+        ],
+        "quark:content/crab_in_a_bucket": [
+          96,
+          121
+        ],
+        "minecraft:husbandry/kill_axolotl_target": [
+          128,
+          148
+        ],
+        "minecraft:husbandry/allay_deliver_item_to_player": [
+          32,
+          27
+        ],
+        "minecraft:husbandry/froglights": [
+          96,
+          432
+        ],
+        "quark:content/get_all_blossom_saplings": [
+          64,
+          216
+        ],
+        "minecraft:husbandry/tadpole_in_a_bucket": [
+          32,
+          432
+        ],
+        "supplementaries:husbandry/wrench": [
+          32,
+          607
+        ],
+        "minecraft:husbandry/wax_off": [
+          96,
+          351
+        ],
+        "minecraft:husbandry/obtain_netherite_hoe": [
+          64,
+          297
+        ],
+        "quark:content/shiba_help": [
+          64,
+          459
+        ],
+        "minecraft:husbandry/leash_all_frog_variants": [
+          64,
+          432
+        ],
+        "minecraft:husbandry/balanced_diet": [
+          64,
+          270
+        ],
+        "quark:content/mine_toretoise": [
+          32,
+          0
+        ],
+        "supplementaries:husbandry/angry_birds": [
+          32,
+          54
+        ],
+        "supplementaries:husbandry/turn_table": [
+          32,
+          553
+        ],
+        "supplementaries:husbandry/soap": [
+          32,
+          405
+        ],
+        "minecraft:husbandry/feed_snifflet": [
+          64,
+          189
+        ],
+        "quark:content/throw_parrot_egg": [
+          64,
+          81
+        ],
+        "minecraft:husbandry/whole_pack": [
+          64,
+          594
+        ],
+        "quark:content/pat_potato": [
+          64,
+          243
+        ],
+        "caverns_and_chasms:husbandry/obtain_bone_flute": [
+          64,
+          513
+        ],
+        "minecraft:husbandry/bred_all_animals": [
+          64,
+          108
+        ],
+        "minecraft:husbandry/repair_wolf_armor": [
+          64,
+          567
+        ],
+        "minecraft:husbandry/plant_any_sniffer_seed": [
+          96,
+          189
+        ],
+        "caverns_and_chasms:husbandry/kill_guardian_with_rat": [
+          128,
+          513
+        ],
+        "supplementaries:husbandry/sus_stew": [
+          64,
+          324
+        ],
+        "minecraft:husbandry/root": [
+          0,
+          303
+        ],
+        "minecraft:husbandry/place_dried_ghast_in_water": [
+          32,
+          229
+        ],
+        "quark:content/poison_baby": [
+          64,
+          54
+        ],
+        "minecraft:husbandry/plant_seed": [
+          32,
+          270
+        ],
+        "minecraft:husbandry/axolotl_in_a_bucket": [
+          96,
+          148
+        ],
+        "minecraft:husbandry/ride_a_boat_with_a_goat": [
+          32,
+          310
+        ],
+        "minecraft:husbandry/allay_deliver_cake_to_note_block": [
+          64,
+          27
+        ],
+        "minecraft:husbandry/silk_touch_nest": [
+          32,
+          378
+        ],
+        "minecraft:husbandry/safely_harvest_honey": [
+          32,
+          351
+        ],
+        "minecraft:husbandry/breed_an_animal": [
+          32,
+          81
+        ],
+        "quark:content/mine_fed_toretoise": [
+          64,
+          0
+        ],
+        "minecraft:husbandry/obtain_sniffer_egg": [
+          32,
+          189
+        ],
+        "minecraft:husbandry/complete_catalogue": [
+          64,
+          486
+        ],
+        "minecraft:husbandry/uh_oh": [
+          32,
+          580
+        ],
+        "minecraft:husbandry/tame_an_animal": [
+          32,
+          526
+        ]
+      }
+    },
+    "buildandthrive:monsters/root": {
+      "background": "buildandthrive:gui/advancement/advancement_monsters_background.png",
+      "index": 5,
+      "roots": [
+        "buildandthrive:monsters/root"
+      ],
+      "positions": {
+        "buildandthrive:monsters/root": [
+          -81,
+          101
+        ],
+        "buildandthrive:monsters/kill_a_mob": [
+          -16,
+          101
+        ],
+        "buildandthrive:monsters/heart_transplanter": [
+          113,
+          81
+        ],
+        "buildandthrive:monsters/tame_an_animal": [
+          -19,
+          198
+        ],
+        "buildandthrive:monsters/kill_all_mobs": [
+          132,
+          34
+        ],
+        "buildandthrive:monsters/follow_ender_eye": [
+          92,
+          23
+        ],
+        "buildandthrive:monsters/find_fortress": [
+          93,
+          150
+        ],
+        "buildandthrive:monsters/kill_mob_near_sculk_catalyst": [
+          64,
+          175
+        ],
+        "buildandthrive:monsters/who_needs_rockets": [
+          0,
+          5
+        ],
+        "buildandthrive:monsters/get_rod": [
+          135,
+          161
+        ],
+        "buildandthrive:monsters/brew_potion": [
+          208,
+          160
+        ],
+        "buildandthrive:monsters/place_dried_ghast_in_water": [
+          32,
+          281
+        ],
+        "buildandthrive:monsters/get_diamond_heart": [
+          84,
+          108
+        ],
+        "buildandthrive:monsters/mine_toretoise": [
+          -32,
+          240
+        ],
+        "buildandthrive:monsters/get_skull": [
+          135,
+          133
+        ],
+        "buildandthrive:monsters/throw_pickarang": [
+          152,
+          97
+        ],
+        "buildandthrive:monsters/mine_fed_toretoise": [
+          -44,
+          281
+        ],
+        "buildandthrive:monsters/summon_wither": [
+          171,
+          132
+        ],
+        "buildandthrive:monsters/create_beacon": [
+          209,
+          132
+        ],
+        "buildandthrive:monsters/dont_move": [
+          76,
+          -6
+        ],
+        "minecraft:husbandry/allay_deliver_cake_to_note_block": [
+          93,
+          241
+        ],
+        "minecraft:husbandry/allay_deliver_item_to_player": [
+          41,
+          217
+        ],
+        "quark:content/get_own_head": [
+          38,
+          -25
+        ],
+        "minecraft:end/kill_dragon": [
+          160,
+          -19
+        ],
+        "minecraft:end/dragon_egg": [
+          209,
+          5
+        ],
+        "minecraft:end/elytra": [
+          282,
+          -52
+        ],
+        "minecraft:end/levitate": [
+          275,
+          17
+        ],
+        "minecraft:end/find_end_city": [
+          239,
+          -17
+        ],
+        "minecraft:end/enter_end_gateway": [
+          202,
+          -18
+        ],
+        "minecraft:end/dragon_breath": [
+          159,
+          -61
+        ],
+        "quark:content/use_viaduct": [
+          218,
+          20
+        ],
+        "minecraft:end/respawn_dragon": [
+          183,
+          14
+        ]
+      }
+    },
+    "vista:husbandry/absolute_cinema": {
+      "background": "minecraft:textures/gui/advancements/backgrounds/stone.png",
+      "index": 5,
+      "deleted": true,
+      "roots": [
+        "vista:husbandry/absolute_cinema"
+      ],
+      "positions": {
+        "vista:husbandry/absolute_cinema": [
+          22,
+          532
+        ]
+      }
+    },
+    "buildandthrive:redstone/root": {
+      "background": "minecraft:textures/block/crafter_top.png",
+      "index": 5,
+      "roots": [
+        "buildandthrive:redstone/root"
+      ],
+      "positions": {
+        "buildandthrive:redstone/turn_table": [
+          32,
+          175
+        ],
+        "buildandthrive:redstone/crafter_crafts_crafter": [
+          64,
+          27
+        ],
+        "buildandthrive:redstone/find_monolith": [
+          35,
+          26
+        ],
+        "buildandthrive:redstone/get_drill": [
+          93,
+          54
+        ],
+        "buildandthrive:redstone/open_large_storage_duct": [
+          64,
+          0
+        ],
+        "buildandthrive:redstone/get_observer": [
+          82,
+          164
+        ],
+        "buildandthrive:redstone/root": [
+          -36,
+          85
+        ],
+        "buildandthrive:redstone/get_dropper": [
+          32,
+          54
+        ],
+        "buildandthrive:redstone/get_enricher": [
+          127,
+          54
+        ],
+        "buildandthrive:redstone/get_spiller": [
+          64,
+          108
+        ],
+        "buildandthrive:redstone/get_comparator": [
+          82,
+          134
+        ],
+        "buildandthrive:redstone/get_prismarine": [
+          32,
+          108
+        ],
+        "buildandthrive:redstone/get_quartz": [
+          44,
+          147
+        ],
+        "buildandthrive:redstone/get_placer": [
+          64,
+          81
+        ],
+        "vista:husbandry/absolute_cinema": [
+          -20,
+          35
+        ]
+      }
+    }
+  },
+  "deleted_advancements": {
+    "farmersdelight:main/root": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.root.title\"}",
+      "icon": "farmersdelight:cooking_pot"
+    },
+    "farmersdelight:main/get_fd_seed": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.get_fd_seed.title\"}",
+      "icon": "farmersdelight:wild_onions"
+    },
+    "farmersdelight:main/place_campfire": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.place_campfire.title\"}",
+      "icon": "minecraft:campfire"
+    },
+    "farmersdelight:main/harvest_ropelogged_tomato": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.harvest_ropelogged_tomato.title\"}",
+      "icon": "farmersdelight:tomato"
+    },
+    "farmersdelight:main/place_cooking_pot": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.place_cooking_pot.title\"}",
+      "icon": "farmersdelight:cooking_pot"
+    },
+    "farmersdelight:main/plant_rice": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.plant_rice.title\"}",
+      "icon": "farmersdelight:rice"
+    },
+    "farmersdelight:main/hit_raider_with_rotten_tomato": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.hit_raider_with_rotten_tomato.title\"}",
+      "icon": "farmersdelight:rotten_tomato"
+    },
+    "farmersdelight:main/get_mushroom_colony": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.get_mushroom_colony.title\"}",
+      "icon": "farmersdelight:red_mushroom_colony"
+    },
+    "farmersdelight:main/use_skillet": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.use_skillet.title\"}",
+      "icon": "farmersdelight:skillet"
+    },
+    "farmersdelight:main/plant_all_crops": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.plant_all_crops.title\"}",
+      "icon": "farmersdelight:cabbage"
+    },
+    "farmersdelight:main/place_skillet": {
+      "owner": "farmersdelight:main/root",
+      "tab": "farmersdelight:main/root",
+      "title": "{\"translate\":\"advancements.farmersdelight.place_skillet.title\"}",
+      "icon": "farmersdelight:skillet"
+    },
+    "minecraft:story/root": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.root.title\"}",
+      "icon": "minecraft:grass_block"
+    },
+    "minecraft:story/mine_stone": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.mine_stone.title\"}",
+      "icon": "minecraft:wooden_pickaxe"
+    },
+    "minecraft:story/upgrade_tools": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.upgrade_tools.title\"}",
+      "icon": "minecraft:copper_pickaxe"
+    },
+    "minecraft:story/smelt_iron": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.smelt_iron.title\"}",
+      "icon": "minecraft:iron_ingot"
+    },
+    "minecraft:story/lava_bucket": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.lava_bucket.title\"}",
+      "icon": "minecraft:lava_bucket"
+    },
+    "minecraft:story/form_obsidian": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.form_obsidian.title\"}",
+      "icon": "minecraft:obsidian"
+    },
+    "minecraft:story/obtain_armor": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.obtain_armor.title\"}",
+      "icon": "minecraft:iron_chestplate"
+    },
+    "minecraft:story/iron_tools": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.iron_tools.title\"}",
+      "icon": "minecraft:iron_pickaxe"
+    },
+    "minecraft:story/enter_the_nether": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enter_the_nether.title\"}",
+      "icon": "minecraft:flint_and_steel"
+    },
+    "minecraft:story/cure_zombie_villager": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.cure_zombie_villager.title\"}",
+      "icon": "minecraft:golden_apple"
+    },
+    "minecraft:story/deflect_arrow": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.deflect_arrow.title\"}",
+      "icon": "minecraft:shield"
+    },
+    "minecraft:story/follow_ender_eye": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.follow_ender_eye.title\"}",
+      "icon": "minecraft:ender_eye"
+    },
+    "minecraft:story/mine_diamond": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.mine_diamond.title\"}",
+      "icon": "minecraft:diamond"
+    },
+    "minecraft:story/enter_the_end": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enter_the_end.title\"}",
+      "icon": "minecraft:end_stone"
+    },
+    "minecraft:story/enchant_item": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.enchant_item.title\"}",
+      "icon": "minecraft:enchanted_book"
+    },
+    "quark:content/apply_color_rune": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.quark.apply_color_rune.title\"}",
+      "icon": "quark:smithing_template_rune"
+    },
+    "minecraft:story/shiny_gear": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.shiny_gear.title\"}",
+      "icon": "minecraft:diamond_chestplate"
+    },
+    "quark:content/wear_full_rainbow": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.quark.wear_full_rainbow.title\"}",
+      "icon": "quark:smithing_template_rune"
+    },
+    "quark:content/throw_pickarang": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.quark.throw_pickarang.title\"}",
+      "icon": "quark:pickarang"
+    },
+    "supplementaries:story/unenchanter": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.story.unenchanter.title\"}",
+      "icon": "minecraft:enchanted_golden_apple"
+    },
+    "quark:content/retreive_flamerang": {
+      "owner": "minecraft:story/root",
+      "tab": "minecraft:story/root",
+      "title": "{\"translate\":\"advancements.quark.retreive_flamerang.title\"}",
+      "icon": "quark:flamerang"
+    },
+    "minecraft:husbandry/root": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.root.title\"}",
+      "icon": "minecraft:hay_block"
+    },
+    "supplementaries:husbandry/turn_table": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.turn_table.title\"}",
+      "icon": "supplementaries:turn_table"
+    },
+    "minecraft:husbandry/safely_harvest_honey": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.safely_harvest_honey.title\"}",
+      "icon": "minecraft:honey_bottle"
+    },
+    "minecraft:husbandry/breed_an_animal": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.breed_an_animal.title\"}",
+      "icon": "minecraft:wheat"
+    },
+    "minecraft:husbandry/place_dried_ghast_in_water": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.place_dried_ghast_in_water.title\"}",
+      "icon": "minecraft:dried_ghast"
+    },
+    "minecraft:husbandry/ride_a_boat_with_a_goat": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.ride_a_boat_with_a_goat.title\"}",
+      "icon": "minecraft:oak_boat"
+    },
+    "minecraft:husbandry/tame_an_animal": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.tame_an_animal.title\"}",
+      "icon": "minecraft:lead"
+    },
+    "minecraft:husbandry/remove_wolf_armor": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.remove_wolf_armor.title\"}",
+      "icon": "minecraft:shears"
+    },
+    "minecraft:husbandry/bred_all_animals": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.breed_all_animals.title\"}",
+      "icon": "minecraft:golden_carrot"
+    },
+    "supplementaries:husbandry/wrench": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wrench.title\"}",
+      "icon": "supplementaries:wrench"
+    },
+    "quark:content/mine_toretoise": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.mine_toretoise.title\"}",
+      "icon": "minecraft:diamond_pickaxe"
+    },
+    "quark:content/throw_parrot_egg": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.throw_parrot_egg.title\"}",
+      "icon": "quark:egg_parrot_red_blue"
+    },
+    "minecraft:husbandry/uh_oh": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.uh_oh.title\"}",
+      "icon": "minecraft:tnt"
+    },
+    "minecraft:husbandry/make_a_sign_glow": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.make_a_sign_glow.title\"}",
+      "icon": "minecraft:glow_ink_sac"
+    },
+    "supplementaries:husbandry/angry_birds": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.angry_birds.title\"}",
+      "icon": "supplementaries:slingshot"
+    },
+    "minecraft:husbandry/silk_touch_nest": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.silk_touch_nest.title\"}",
+      "icon": "minecraft:bee_nest"
+    },
+    "minecraft:husbandry/wax_on": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wax_on.title\"}",
+      "icon": "minecraft:honeycomb"
+    },
+    "caverns_and_chasms:husbandry/obtain_bone_flute": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.husbandry.obtain_bone_flute.title\"}",
+      "icon": "caverns_and_chasms:bone_flute"
+    },
+    "quark:content/mine_fed_toretoise": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.mine_fed_toretoise.title\"}",
+      "icon": "minecraft:glow_berries"
+    },
+    "caverns_and_chasms:husbandry/kill_with_rat": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.husbandry.kill_with_rat.title\"}",
+      "icon": "caverns_and_chasms:bone_flute"
+    },
+    "supplementaries:husbandry/soap": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.soap.title\"}",
+      "icon": "supplementaries:soap"
+    },
+    "minecraft:husbandry/obtain_sniffer_egg": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.obtain_sniffer_egg.title\"}",
+      "icon": "minecraft:sniffer_egg"
+    },
+    "minecraft:husbandry/plant_seed": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.plant_seed.title\"}",
+      "icon": "minecraft:wheat"
+    },
+    "minecraft:husbandry/balanced_diet": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.balanced_diet.title\"}",
+      "icon": "minecraft:apple"
+    },
+    "minecraft:husbandry/whole_pack": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.whole_pack.title\"}",
+      "icon": "minecraft:bone"
+    },
+    "caverns_and_chasms:husbandry/kill_guardian_with_rat": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.husbandry.kill_guardian_with_rat.title\"}",
+      "icon": "caverns_and_chasms:bone_flute"
+    },
+    "quark:content/shiba_help": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.shiba_help.title\"}",
+      "icon": "minecraft:torch"
+    },
+    "quark:content/pat_potato": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.pat_potato.title\"}",
+      "icon": "quark:tiny_potato"
+    },
+    "quark:content/get_all_blossom_saplings": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.get_all_blossom_saplings.title\"}",
+      "icon": "quark:red_blossom_sapling"
+    },
+    "quark:content/poison_baby": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.quark.poison_baby.title\"}",
+      "icon": "minecraft:poisonous_potato"
+    },
+    "minecraft:husbandry/complete_catalogue": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.complete_catalogue.title\"}",
+      "icon": "minecraft:cod"
+    },
+    "minecraft:husbandry/repair_wolf_armor": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.repair_wolf_armor.title\"}",
+      "icon": "minecraft:wolf_armor"
+    },
+    "minecraft:husbandry/feed_snifflet": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.feed_snifflet.title\"}",
+      "icon": "minecraft:torchflower_seeds"
+    },
+    "minecraft:husbandry/wax_off": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.wax_off.title\"}",
+      "icon": "minecraft:stone_axe"
+    },
+    "supplementaries:husbandry/sus_stew": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.sus_stew.title\"}",
+      "icon": "minecraft:suspicious_stew"
+    },
+    "minecraft:husbandry/obtain_netherite_hoe": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.netherite_hoe.title\"}",
+      "icon": "minecraft:netherite_hoe"
+    },
+    "minecraft:husbandry/plant_any_sniffer_seed": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.husbandry.plant_any_sniffer_seed.title\"}",
+      "icon": "minecraft:pitcher_pod"
+    },
+    "caverns_and_chasms:husbandry/obtain_ancient_hoes": {
+      "owner": "minecraft:husbandry/root",
+      "tab": "minecraft:husbandry/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.husbandry.obtain_ancient_hoes.title\"}",
+      "icon": "caverns_and_chasms:necromium_hoe"
+    },
+    "minecraft:adventure/root": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.root.title\"}",
+      "icon": "minecraft:map"
+    },
+    "minecraft:adventure/sleep_in_bed": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.sleep_in_bed.title\"}",
+      "icon": "minecraft:red_bed"
+    },
+    "minecraft:adventure/voluntary_exile": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.voluntary_exile.title\"}",
+      "icon": "minecraft:white_banner"
+    },
+    "caverns_and_chasms:adventure/atone_item": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.atone_item.title\"}",
+      "icon": "caverns_and_chasms:atoning_table"
+    },
+    "minecraft:adventure/trim_with_any_armor_pattern": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trim_with_any_armor_pattern.title\"}",
+      "icon": "minecraft:dune_armor_trim_smithing_template"
+    },
+    "caverns_and_chasms:adventure/smelt_copper": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.smelt_copper.title\"}",
+      "icon": "minecraft:copper_ingot"
+    },
+    "minecraft:adventure/ol_betsy": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.ol_betsy.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "caverns_and_chasms:adventure/bejeweled_anvil_repair": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.bejeweled_anvil_repair.title\"}",
+      "icon": "caverns_and_chasms:bejeweled_anvil"
+    },
+    "caverns_and_chasms:adventure/break_item_atoning": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.break_item_atoning.title\"}",
+      "icon": "caverns_and_chasms:atoning_table"
+    },
+    "minecraft:adventure/fall_from_world_height": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.fall_from_world_height.title\"}",
+      "icon": "minecraft:water_bucket"
+    },
+    "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.walk_on_powder_snow_with_leather_boots.title\"}",
+      "icon": "minecraft:leather_boots"
+    },
+    "caverns_and_chasms:husbandry/obtain_turquoise": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.obtain_turquoise.title\"}",
+      "icon": "caverns_and_chasms:turquoise"
+    },
+    "supplementaries:adventure/road_sign": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.road_sign.title\"}",
+      "icon": "supplementaries:way_sign_oak"
+    },
+    "minecraft:adventure/brush_armadillo": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.brush_armadillo.title\"}",
+      "icon": "minecraft:armadillo_scute"
+    },
+    "caverns_and_chasms:husbandry/use_unicorn_horn": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.use_unicorn_horn.title\"}",
+      "icon": "caverns_and_chasms:unicorn_horn"
+    },
+    "minecraft:adventure/read_power_of_chiseled_bookshelf": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.read_power_from_chiseled_bookshelf.title\"}",
+      "icon": "minecraft:chiseled_bookshelf"
+    },
+    "caverns_and_chasms:adventure/dismantle_item": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.dismantle_item.title\"}",
+      "icon": "caverns_and_chasms:dismantling_table"
+    },
+    "caverns_and_chasms:adventure/repair_with_zirconia": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.repair_with_zirconia.title\"}",
+      "icon": "caverns_and_chasms:zirconia"
+    },
+    "caverns_and_chasms:nether/equip_monocle": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.equip_monocle.title\"}",
+      "icon": "caverns_and_chasms:monocle"
+    },
+    "minecraft:adventure/crafters_crafting_crafters": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.crafters_crafting_crafters.title\"}",
+      "icon": "minecraft:crafter"
+    },
+    "minecraft:adventure/minecraft_trials_edition": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.minecraft_trials_edition.title\"}",
+      "icon": "minecraft:chiseled_tuff"
+    },
+    "caverns_and_chasms:adventure/copy_music_disc": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.copy_music_disc.title\"}",
+      "icon": "caverns_and_chasms:music_disc_copy"
+    },
+    "minecraft:adventure/overoverkill": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.overoverkill.title\"}",
+      "icon": "minecraft:mace"
+    },
+    "minecraft:adventure/whos_the_pillager_now": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.whos_the_pillager_now.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "caverns_and_chasms:adventure/summon_copper_golem": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.summon_copper_golem.title\"}",
+      "icon": "minecraft:carved_pumpkin"
+    },
+    "minecraft:adventure/under_lock_and_key": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.under_lock_and_key.title\"}",
+      "icon": "minecraft:trial_key"
+    },
+    "minecraft:adventure/revaulting": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.revaulting.title\"}",
+      "icon": "minecraft:ominous_trial_key"
+    },
+    "caverns_and_chasms:adventure/repair_pants_with_zirconia": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.repair_pants_with_zirconia.title\"}",
+      "icon": "minecraft:diamond_leggings"
+    },
+    "minecraft:adventure/spyglass_at_parrot": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_parrot.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "caverns_and_chasms:adventure/find_monolith": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.find_monolith.title\"}",
+      "icon": "caverns_and_chasms:raw_tin"
+    },
+    "minecraft:adventure/play_jukebox_in_meadows": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.play_jukebox_in_meadows.title\"}",
+      "icon": "minecraft:jukebox"
+    },
+    "minecraft:adventure/hero_of_the_village": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.hero_of_the_village.title\"}",
+      "icon": "minecraft:white_banner"
+    },
+    "caverns_and_chasms:adventure/use_tuning_fork": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.use_tuning_fork.title\"}",
+      "icon": "caverns_and_chasms:tuning_fork"
+    },
+    "minecraft:adventure/trade": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trade.title\"}",
+      "icon": "minecraft:emerald"
+    },
+    "minecraft:adventure/honey_block_slide": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.honey_block_slide.title\"}",
+      "icon": "minecraft:honey_block"
+    },
+    "minecraft:adventure/blowback": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.blowback.title\"}",
+      "icon": "minecraft:wind_charge"
+    },
+    "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.lightning_rod_with_villager_no_fire.title\"}",
+      "icon": "minecraft:lightning_rod"
+    },
+    "minecraft:adventure/salvage_sherd": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.salvage_sherd.title\"}",
+      "icon": "minecraft:brush"
+    },
+    "caverns_and_chasms:adventure/thunderstruck": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.thunderstruck.title\"}",
+      "icon": "caverns_and_chasms:copper_helmet"
+    },
+    "minecraft:adventure/lighten_up": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.lighten_up.title\"}",
+      "icon": "minecraft:copper_bulb"
+    },
+    "crafty_hands:main/dont_do_that": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.crafty_hands.dont_do_that.title\"}",
+      "icon": "crafty_hands:glove_right"
+    },
+    "minecraft:adventure/avoid_vibration": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.avoid_vibration.title\"}",
+      "icon": "minecraft:sculk_sensor"
+    },
+    "minecraft:adventure/heart_transplanter": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.heart_transplanter.title\"}",
+      "icon": "minecraft:creaking_heart"
+    },
+    "caverns_and_chasms:adventure/half_court": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.half_court.title\"}",
+      "icon": "caverns_and_chasms:hoop"
+    },
+    "minecraft:adventure/kill_a_mob": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_a_mob.title\"}",
+      "icon": "minecraft:iron_sword"
+    },
+    "minecraft:adventure/adventuring_time": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.adventuring_time.title\"}",
+      "icon": "minecraft:diamond_boots"
+    },
+    "quark:content/tatami_gaeshi": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.tatami_gaeshi.title\"}",
+      "icon": "quark:bamboo_mat_carpet"
+    },
+    "quark:content/pathfinder_map_center": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.pathfinder_map_center.title\"}",
+      "icon": "minecraft:filled_map"
+    },
+    "quark:content/crawl_in_hollow_log": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.crawl_in_hollow_log.title\"}",
+      "icon": "quark:hollow_oak_log"
+    },
+    "minecraft:nether/use_lodestone": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.nether.use_lodestone.title\"}",
+      "icon": "minecraft:lodestone"
+    },
+    "supplementaries:adventure/globe": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.globe.title\"}",
+      "icon": "supplementaries:globe"
+    },
+    "caverns_and_chasms:adventure/ricochet_bullseye": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.ricochet_bullseye.title\"}",
+      "icon": "caverns_and_chasms:bouncer"
+    },
+    "minecraft:adventure/who_needs_rockets": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.who_needs_rockets.title\"}",
+      "icon": "minecraft:wind_charge"
+    },
+    "caverns_and_chasms:adventure/tune_a_fish": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.tune_a_fish.title\"}",
+      "icon": "caverns_and_chasms:tuning_fork"
+    },
+    "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trim_with_all_exclusive_armor_patterns.title\"}",
+      "icon": "minecraft:silence_armor_trim_smithing_template"
+    },
+    "minecraft:adventure/two_birds_one_arrow": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.two_birds_one_arrow.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/shoot_arrow": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.shoot_arrow.title\"}",
+      "icon": "minecraft:bow"
+    },
+    "minecraft:adventure/arbalistic": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.arbalistic.title\"}",
+      "icon": "minecraft:crossbow"
+    },
+    "minecraft:adventure/summon_iron_golem": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.summon_iron_golem.title\"}",
+      "icon": "minecraft:carved_pumpkin"
+    },
+    "minecraft:adventure/kill_all_mobs": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_all_mobs.title\"}",
+      "icon": "minecraft:diamond_sword"
+    },
+    "caverns_and_chasms:adventure/kill_bat_with_vampirism": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.kill_bat_with_vampirism.title\"}",
+      "icon": "minecraft:potion"
+    },
+    "minecraft:adventure/trade_at_world_height": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.trade_at_world_height.title\"}",
+      "icon": "minecraft:emerald"
+    },
+    "minecraft:adventure/spyglass_at_ghast": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_ghast.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:adventure/throw_trident": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.throw_trident.title\"}",
+      "icon": "minecraft:trident"
+    },
+    "minecraft:adventure/very_very_frightening": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.very_very_frightening.title\"}",
+      "icon": "minecraft:trident"
+    },
+    "caverns_and_chasms:adventure/open_large_storage_duct": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.open_large_storage_duct.title\"}",
+      "icon": "caverns_and_chasms:storage_duct"
+    },
+    "caverns_and_chasms:adventure/ricochet_hit": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.ricochet_hit.title\"}",
+      "icon": "caverns_and_chasms:ricochet_arrow"
+    },
+    "caverns_and_chasms:adventure/hatch_saddled_grazer": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.hatch_saddled_grazer.title\"}",
+      "icon": "caverns_and_chasms:saddled_egg"
+    },
+    "minecraft:adventure/bullseye": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.bullseye.title\"}",
+      "icon": "minecraft:target"
+    },
+    "quark:content/get_diamond_heart": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.get_diamond_heart.title\"}",
+      "icon": "quark:diamond_heart"
+    },
+    "minecraft:adventure/totem_of_undying": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.totem_of_undying.title\"}",
+      "icon": "minecraft:totem_of_undying"
+    },
+    "quark:content/get_forgotten_hat": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.get_forgotten_hat.title\"}",
+      "icon": "quark:forgotten_hat"
+    },
+    "quark:content/make_stoneling": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.quark.make_stoneling.title\"}",
+      "icon": "quark:diamond_heart"
+    },
+    "minecraft:adventure/craft_decorated_pot_using_only_sherds": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.craft_decorated_pot_using_only_sherds.title\"}",
+      "icon": "minecraft:decorated_pot"
+    },
+    "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.kill_mob_near_sculk_catalyst.title\"}",
+      "icon": "minecraft:sculk_catalyst"
+    },
+    "minecraft:adventure/sniper_duel": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.sniper_duel.title\"}",
+      "icon": "minecraft:arrow"
+    },
+    "caverns_and_chasms:adventure/dont_move": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.dont_move.title\"}",
+      "icon": "caverns_and_chasms:peeper_head"
+    },
+    "caverns_and_chasms:adventure/ricochet_hit_yourself": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.adventure.ricochet_hit_yourself.title\"}",
+      "icon": "caverns_and_chasms:ricochet_arrow"
+    },
+    "minecraft:adventure/spyglass_at_dragon": {
+      "owner": "minecraft:adventure/root",
+      "tab": "minecraft:adventure/root",
+      "title": "{\"translate\":\"advancements.adventure.spyglass_at_dragon.title\"}",
+      "icon": "minecraft:spyglass"
+    },
+    "minecraft:nether/root": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.root.title\"}",
+      "icon": "minecraft:red_nether_bricks"
+    },
+    "minecraft:nether/distract_piglin": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.distract_piglin.title\"}",
+      "icon": "minecraft:gold_ingot"
+    },
+    "minecraft:nether/find_fortress": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.find_fortress.title\"}",
+      "icon": "minecraft:nether_bricks"
+    },
+    "minecraft:nether/obtain_crying_obsidian": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_crying_obsidian.title\"}",
+      "icon": "minecraft:crying_obsidian"
+    },
+    "minecraft:nether/ride_strider": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.ride_strider.title\"}",
+      "icon": "minecraft:warped_fungus_on_a_stick"
+    },
+    "minecraft:nether/get_wither_skull": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.get_wither_skull.title\"}",
+      "icon": "minecraft:wither_skeleton_skull"
+    },
+    "caverns_and_chasms:nether/ride_boat_with_deeper": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.caverns_and_chasms.nether.ride_boat_with_deeper.title\"}",
+      "icon": "caverns_and_chasms:deeper_head"
+    },
+    "minecraft:nether/return_to_sender": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.return_to_sender.title\"}",
+      "icon": "minecraft:fire_charge"
+    },
+    "minecraft:nether/find_bastion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.find_bastion.title\"}",
+      "icon": "minecraft:polished_blackstone_bricks"
+    },
+    "minecraft:nether/explore_nether": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.explore_nether.title\"}",
+      "icon": "minecraft:netherite_boots"
+    },
+    "minecraft:nether/obtain_blaze_rod": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.obtain_blaze_rod.title\"}",
+      "icon": "minecraft:blaze_rod"
+    },
+    "minecraft:nether/charge_respawn_anchor": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.charge_respawn_anchor.title\"}",
+      "icon": "minecraft:respawn_anchor"
+    },
+    "minecraft:nether/uneasy_alliance": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.uneasy_alliance.title\"}",
+      "icon": "minecraft:ghast_tear"
+    },
+    "minecraft:nether/loot_bastion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.loot_bastion.title\"}",
+      "icon": "minecraft:chest"
+    },
+    "minecraft:nether/ride_strider_in_overworld_lava": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.ride_strider_in_overworld_lava.title\"}",
+      "icon": "minecraft:warped_fungus_on_a_stick"
+    },
+    "minecraft:nether/summon_wither": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.summon_wither.title\"}",
+      "icon": "minecraft:nether_star"
+    },
+    "minecraft:nether/create_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.create_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "quark:content/redirect_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.quark.redirect_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "quark:content/watcher_center": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.quark.watcher_center.title\"}",
+      "icon": "quark:ender_watcher"
+    },
+    "minecraft:nether/brew_potion": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.brew_potion.title\"}",
+      "icon": "minecraft:potion"
+    },
+    "minecraft:nether/create_full_beacon": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.create_full_beacon.title\"}",
+      "icon": "minecraft:beacon"
+    },
+    "minecraft:nether/all_potions": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.all_potions.title\"}",
+      "icon": "minecraft:milk_bucket"
+    },
+    "quark:content/tame_foxhound": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.quark.tame_foxhound.title\"}",
+      "icon": "minecraft:coal"
+    },
+    "quark:content/foxhound_speed_up_furnace": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.quark.foxhound_speed_up_furnace.title\"}",
+      "icon": "minecraft:furnace"
+    },
+    "minecraft:nether/all_effects": {
+      "owner": "minecraft:nether/root",
+      "tab": "minecraft:nether/root",
+      "title": "{\"translate\":\"advancements.nether.all_effects.title\"}",
+      "icon": "minecraft:bucket"
+    },
+    "minecraft:end/root": {
+      "owner": "minecraft:end/root",
+      "tab": "minecraft:end/root",
+      "title": "{\"translate\":\"advancements.end.root.title\"}",
+      "icon": "minecraft:end_stone"
+    },
+    "minecraft:end/dragon_egg": {
+      "owner": "reliable_advancements:standalone",
+      "tab": "buildandthrive:monsters/root",
+      "title": "{\"translate\":\"advancements.end.dragon_egg.title\"}",
+      "icon": "minecraft:dragon_egg"
+    }
+  },
+  "derived_presentation": {
+    "buildandthrive:husbandry/root": {
+      "title": "Husbandry",
+      "icon": "minecraft:iron_hoe",
+      "background": "minecraft:textures/block/hay_block_side.png"
+    },
+    "buildandthrive:magic/root": {
+      "title": "Magic",
+      "icon": "minecraft:lapis_lazuli",
+      "background": "minecraft:textures/block/lapis_block.png"
+    },
+    "buildandthrive:monsters/root": {
+      "title": "Monsters",
+      "icon": "minecraft:creeper_spawn_egg",
+      "background": "buildandthrive:gui/advancement/advancement_monsters_background.png"
+    },
+    "buildandthrive:redstone/root": {
+      "title": "Redstone",
+      "icon": "minecraft:redstone",
+      "background": "minecraft:textures/block/crafter_top.png"
+    },
+    "buildandthrive:story/root": {
+      "title": "Build and Thrive",
+      "icon": "minecraft:crafting_table",
+      "background": "minecraft:textures/block/bricks.png"
+    },
+    "vista:husbandry/absolute_cinema": {
+      "title": "Absolute Cinema",
+      "icon": "vista:television"
+    },
+    "crafty_hands:main/dont_do_that": {
+      "title": "Don\u0027t do that",
+      "icon": "crafty_hands:glove_right"
+    }
+  }
+}

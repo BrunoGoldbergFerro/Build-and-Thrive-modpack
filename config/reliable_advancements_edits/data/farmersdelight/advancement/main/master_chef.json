@@ -1,0 +1,321 @@
+{
+  "criteria": {
+    "chicken_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:chicken_soup"
+        }
+      }
+    },
+    "ratatouille": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:ratatouille"
+        }
+      }
+    },
+    "fish_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:fish_stew"
+        }
+      }
+    },
+    "noodle_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:noodle_soup"
+        }
+      }
+    },
+    "steak_and_potatoes": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:steak_and_potatoes"
+        }
+      }
+    },
+    "cooked_rice": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:cooked_rice"
+        }
+      }
+    },
+    "mushroom_rice": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:mushroom_rice"
+        }
+      }
+    },
+    "vegetable_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:vegetable_soup"
+        }
+      }
+    },
+    "grilled_salmon": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:grilled_salmon"
+        }
+      }
+    },
+    "squid_ink_pasta": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:squid_ink_pasta"
+        }
+      }
+    },
+    "beef_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:beef_stew"
+        }
+      }
+    },
+    "pumpkin_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:pumpkin_soup"
+        }
+      }
+    },
+    "stuffed_pumpkin": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:stuffed_pumpkin"
+        }
+      }
+    },
+    "pasta_with_meatballs": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:pasta_with_meatballs"
+        }
+      }
+    },
+    "bacon_and_eggs": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:bacon_and_eggs"
+        }
+      }
+    },
+    "vegetable_noodles": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:vegetable_noodles"
+        }
+      }
+    },
+    "pasta_with_mutton_chop": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:pasta_with_mutton_chop"
+        }
+      }
+    },
+    "honey_glazed_ham": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:honey_glazed_ham"
+        }
+      }
+    },
+    "shepherds_pie": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:shepherds_pie"
+        }
+      }
+    },
+    "gleaming_salad": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:gleaming_salad"
+        }
+      }
+    },
+    "bone_broth": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:bone_broth"
+        }
+      }
+    },
+    "onion_soup": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:onion_soup"
+        }
+      }
+    },
+    "roast_chicken": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:roast_chicken"
+        }
+      }
+    },
+    "fried_rice": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:fried_rice"
+        }
+      }
+    },
+    "mixed_salad": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:mixed_salad"
+        }
+      }
+    },
+    "roasted_mutton_chops": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:roasted_mutton_chops"
+        }
+      }
+    },
+    "baked_cod_stew": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": "farmersdelight:baked_cod_stew"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "mixed_salad"
+    ],
+    [
+      "cooked_rice"
+    ],
+    [
+      "bone_broth"
+    ],
+    [
+      "beef_stew"
+    ],
+    [
+      "vegetable_soup"
+    ],
+    [
+      "fish_stew"
+    ],
+    [
+      "chicken_soup"
+    ],
+    [
+      "fried_rice"
+    ],
+    [
+      "pumpkin_soup"
+    ],
+    [
+      "baked_cod_stew"
+    ],
+    [
+      "noodle_soup"
+    ],
+    [
+      "onion_soup"
+    ],
+    [
+      "bacon_and_eggs"
+    ],
+    [
+      "ratatouille"
+    ],
+    [
+      "steak_and_potatoes"
+    ],
+    [
+      "pasta_with_meatballs"
+    ],
+    [
+      "pasta_with_mutton_chop"
+    ],
+    [
+      "mushroom_rice"
+    ],
+    [
+      "roasted_mutton_chops"
+    ],
+    [
+      "vegetable_noodles"
+    ],
+    [
+      "squid_ink_pasta"
+    ],
+    [
+      "grilled_salmon"
+    ],
+    [
+      "roast_chicken"
+    ],
+    [
+      "stuffed_pumpkin"
+    ],
+    [
+      "honey_glazed_ham"
+    ],
+    [
+      "shepherds_pie"
+    ],
+    [
+      "gleaming_salad"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "farmersdelight:main/place_feast",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "farmersdelight:honey_glazed_ham"
+    },
+    "title": "Master Chef",
+    "description": "Eat a course of every meal available!"
+  },
+  "rewards": {
+    "loot": [
+      "buildandthrive:advancement/18_turquoise"
+    ]
+  },
+  "parents": [
+    "farmersdelight:main/place_feast"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "overlevel_enchant": {
+      "trigger": "quark:overlevel"
+    }
+  },
+  "requirements": [
+    [
+      "overlevel_enchant"
+    ]
+  ],
+  "parent": "buildandthrive:magic/enchant_item",
+  "display": {
+    "icon": {
+      "id": "quark:ancient_tome"
+    },
+    "title": "Limit Breaker",
+    "description": "Overlevel an enchantment with Ancient Tomes",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:magic/enchant_item"
+  ]
+}

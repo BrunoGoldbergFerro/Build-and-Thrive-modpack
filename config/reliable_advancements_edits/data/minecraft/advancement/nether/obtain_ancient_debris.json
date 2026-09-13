@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "ancient_debris": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:ancient_debris"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "ancient_debris"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "buildandthrive:story/enter_the_nether",
+  "display": {
+    "icon": {
+      "id": "minecraft:ancient_debris"
+    },
+    "title": "Hidden in the Depths",
+    "description": "Obtain Ancient Debris",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:story/enter_the_nether"
+  ]
+}

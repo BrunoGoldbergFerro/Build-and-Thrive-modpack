@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "travelled": {
+      "trigger": "minecraft:nether_travel",
+      "conditions": {
+        "distance": {
+          "horizontal": {
+            "min": 7000.0
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "travelled"
+    ]
+  ],
+  "parent": "buildandthrive:story/enter_the_nether",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:map"
+    },
+    "title": "Subspace Bubble",
+    "description": "Use the Nether to travel 7 km in the Overworld"
+  },
+  "rewards": {
+    "loot": [
+      "buildandthrive:advancement/18_turquoise"
+    ]
+  },
+  "parents": [
+    "buildandthrive:story/enter_the_nether"
+  ]
+}

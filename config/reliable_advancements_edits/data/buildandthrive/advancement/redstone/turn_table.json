@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "parent": "buildandthrive:redstone/root",
+  "display": {
+    "icon": {
+      "id": "supplementaries:turn_table"
+    },
+    "title": "How the Turn Tables",
+    "description": "Use a Turn Table to rotate yourself",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:redstone/root"
+  ]
+}

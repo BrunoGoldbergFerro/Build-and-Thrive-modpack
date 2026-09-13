@@ -1,0 +1,30 @@
+{
+  "criteria": {
+    "tadpole_bucket": {
+      "trigger": "minecraft:filled_bucket",
+      "conditions": {
+        "item": {
+          "items": "minecraft:tadpole_bucket"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "tadpole_bucket"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "minecraft:husbandry/tactical_fishing",
+  "display": {
+    "icon": {
+      "id": "minecraft:tadpole_bucket"
+    },
+    "title": "Bukkit Bukkit",
+    "description": "Catch a Tadpole in a Bucket",
+    "frame": "task"
+  },
+  "parents": [
+    "minecraft:husbandry/tactical_fishing"
+  ]
+}

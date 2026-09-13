@@ -1,0 +1,29 @@
+{
+  "criteria": {
+    "get_own_head": {
+      "trigger": "quark:own_head"
+    }
+  },
+  "requirements": [
+    [
+      "get_own_head"
+    ]
+  ],
+  "parent": "buildandthrive:monsters/kill_a_mob",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:player_head"
+    },
+    "title": "Getting Ahead",
+    "description": "Get your own player head from a named Snow Golem killed by a Witch"
+  },
+  "rewards": {
+    "loot": [
+      "buildandthrive:advancement/9_turquoise"
+    ]
+  },
+  "parents": [
+    "buildandthrive:monsters/kill_a_mob"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "potion": {
+      "trigger": "minecraft:brewed_potion"
+    }
+  },
+  "requirements": [
+    [
+      "potion"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "buildandthrive:story/smelt_silver",
+  "display": {
+    "icon": {
+      "id": "minecraft:potion"
+    },
+    "title": "Local Brewery",
+    "description": "Brew a Potion",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:story/smelt_silver",
+    "buildandthrive:story/enter_the_nether"
+  ]
+}

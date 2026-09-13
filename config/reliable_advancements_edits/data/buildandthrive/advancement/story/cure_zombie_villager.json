@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "cured_zombie": {
+      "trigger": "minecraft:cured_zombie_villager"
+    }
+  },
+  "requirements": [
+    [
+      "cured_zombie"
+    ]
+  ],
+  "parent": "buildandthrive:story/smelt_gold",
+  "display": {
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:golden_apple"
+    },
+    "title": "Zombie Doctor",
+    "description": "Weaken and then cure a Zombie Villager"
+  },
+  "parents": [
+    "buildandthrive:story/smelt_gold",
+    "buildandthrive:story/brew_potion"
+  ]
+}

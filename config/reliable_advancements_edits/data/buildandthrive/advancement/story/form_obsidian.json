@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "obsidian": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:obsidian"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "obsidian"
+    ]
+  ],
+  "parent": "buildandthrive:story/get_deepslate",
+  "display": {
+    "icon": {
+      "id": "minecraft:obsidian"
+    },
+    "title": "Ice Bucket Challenge",
+    "description": "Obtain a block of Obsidian",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:story/get_deepslate",
+    "buildandthrive:story/mine_diamond"
+  ]
+}

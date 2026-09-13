@@ -1,0 +1,76 @@
+{
+  "criteria": {
+    "netherite_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:netherite_knife"
+          }
+        ]
+      }
+    },
+    "diamond_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:diamond_knife"
+          }
+        ]
+      }
+    },
+    "golden_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:golden_knife"
+          }
+        ]
+      }
+    },
+    "flint_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:flint_knife"
+          }
+        ]
+      }
+    },
+    "iron_knife": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "farmersdelight:iron_knife"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "flint_knife",
+      "iron_knife",
+      "diamond_knife",
+      "golden_knife",
+      "netherite_knife"
+    ]
+  ],
+  "sends_telemetry_event": true,
+  "parent": "buildandthrive:husbandry/plant_seed",
+  "display": {
+    "icon": {
+      "id": "farmersdelight:flint_knife"
+    },
+    "title": "Hunt and Gather",
+    "description": "Craft a Knife to scavenge extra goods from plants and animals",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:husbandry/plant_seed"
+  ]
+}

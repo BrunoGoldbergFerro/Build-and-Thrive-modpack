@@ -1,0 +1,140 @@
+{
+  "criteria": {
+    "orange": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:orange_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "blue": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:blue_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "yellow": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:yellow_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "red": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:red_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "white": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:white_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "black": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:black_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "green": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:green_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "violet": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:violet_corundum_cluster"
+          }
+        ]
+      }
+    },
+    "indigo": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "quark:indigo_corundum_cluster"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "red"
+    ],
+    [
+      "orange"
+    ],
+    [
+      "yellow"
+    ],
+    [
+      "green"
+    ],
+    [
+      "blue"
+    ],
+    [
+      "indigo"
+    ],
+    [
+      "violet"
+    ],
+    [
+      "white"
+    ],
+    [
+      "black"
+    ]
+  ],
+  "parent": "buildandthrive:magic/redirect_beacon",
+  "display": {
+    "frame": "challenge",
+    "icon": {
+      "id": "quark:blue_corundum_cluster"
+    },
+    "title": "Corundum Conundrum",
+    "description": "Get every color of Corundum Cluster"
+  },
+  "rewards": {
+    "loot": [
+      "buildandthrive:advancement/9_turquoise"
+    ]
+  },
+  "parents": [
+    "buildandthrive:magic/redirect_beacon"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "criteria": {
+    "kill_mob_near_sculk_catalyst": {
+      "trigger": "minecraft:kill_mob_near_sculk_catalyst"
+    }
+  },
+  "requirements": [
+    [
+      "kill_mob_near_sculk_catalyst"
+    ]
+  ],
+  "parent": "buildandthrive:monsters/kill_a_mob",
+  "display": {
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:sculk_catalyst"
+    },
+    "title": "It Spreads",
+    "description": "Kill a mob near a Sculk Catalyst"
+  },
+  "parents": [
+    "buildandthrive:monsters/kill_a_mob"
+  ]
+}

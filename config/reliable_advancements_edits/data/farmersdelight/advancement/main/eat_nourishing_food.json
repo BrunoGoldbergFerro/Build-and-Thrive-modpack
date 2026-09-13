@@ -1,0 +1,31 @@
+{
+  "criteria": {
+    "nourishment": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "farmersdelight:nourishment": {}
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "nourishment"
+    ]
+  ],
+  "parent": "buildandthrive:husbandry/breed_an_animal",
+  "display": {
+    "announce_to_chat": false,
+    "icon": {
+      "id": "farmersdelight:steak_and_potatoes"
+    },
+    "title": "Nourishing!",
+    "description": "A balanced and diverse meal will keep you fed and healthy for a long time!",
+    "frame": "task"
+  },
+  "parents": [
+    "buildandthrive:husbandry/breed_an_animal",
+    "buildandthrive:husbandry/plant_seed"
+  ]
+}

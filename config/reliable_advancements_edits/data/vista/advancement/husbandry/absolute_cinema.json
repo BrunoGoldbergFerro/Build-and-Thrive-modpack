@@ -1,0 +1,25 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    [
+      "unlock"
+    ]
+  ],
+  "parent": "buildandthrive:redstone/root",
+  "display": {
+    "frame": "goal",
+    "hidden": true,
+    "icon": {
+      "id": "vista:television"
+    },
+    "title": "Absolute Cinema",
+    "description": "Play a Cassette on a large screen Television."
+  },
+  "parents": [
+    "buildandthrive:redstone/root"
+  ]
+}

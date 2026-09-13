@@ -1,9 +1,16 @@
 {
-  "minecraft:rabbit": [
-    "minecraft:rabbit"
-  ],
   "minecraft:zombie_villager": [
     "0_remove_default_biome_spawns",
     "minecraft:zombie_villager"
+  ],
+  "minecraft:phantom": [
+    "minecraft:phantom"
+  ],
+  "quark:crab": [
+    "quark:crab",
+    "0_remove_default_biome_spawns"
+  ],
+  "minecraft:rabbit": [
+    "minecraft:rabbit"
   ]
 }

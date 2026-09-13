@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "autowork:spiller",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_spiller.title"
+    },
+    "description": {
+      "translate": "advancements.bat.redstone.get_spiller.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/get_prismarine",
+  "criteria": {
+    "spiller": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "autowork:spiller"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "spiller"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

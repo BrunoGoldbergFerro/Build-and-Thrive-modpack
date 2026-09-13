@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "autowork:drill",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_drill.title"
+    },
+    "description": {
+      "translate": "advancements.bat.redstone.get_drill.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/get_dropper",
+  "criteria": {
+    "drill": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "autowork:drill"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "drill"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:quartz",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_quartz.title"
+    },
+    "description": {
+      "translate": "advancements.bat.redstone.get_quartz.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/root",
+  "criteria": {
+    "quartz": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:quartz"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "quartz"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

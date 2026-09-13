@@ -1,0 +1,28 @@
+{
+  "criteria": {
+    "damage": {
+      "trigger": "minecraft:entity_hurt_player"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "buildandthrive:gui/advancement/advancement_monsters_background.png",
+    "description": {
+      "translate": "advancements.bat.monsters.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:creeper_spawn_egg"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.bat.monsters.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "damage"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

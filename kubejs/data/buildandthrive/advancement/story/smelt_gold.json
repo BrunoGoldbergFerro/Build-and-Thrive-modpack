@@ -1,0 +1,33 @@
+{
+  "parent": "buildandthrive:story/smelt_iron",
+  "criteria": {
+    "gold": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:gold_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.bat.story.smelt_gold.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:gold_ingot"
+    },
+    "title": {
+      "translate": "advancements.bat.story.smelt_gold.title"
+    }
+  },
+  "requirements": [
+    [
+      "gold"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

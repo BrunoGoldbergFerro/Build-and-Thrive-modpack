@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "autowork:placer",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_placer.title"
+    },
+    "description": {
+      "translate": "advancements.bat.redstone.get_placer.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/get_dropper",
+  "criteria": {
+    "placer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "autowork:placer"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "placer"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

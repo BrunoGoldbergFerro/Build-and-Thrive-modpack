@@ -1,0 +1,46 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:prismarine_shard",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_prismarine.title"
+    },
+    "description": {
+      "translate": "advancements.bat.redstone.get_prismarine.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/root",
+  "criteria": {
+    "crystal": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:prismarine_crystals"
+          }
+        ]
+      }
+    },
+    "shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:prismarine_shard"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "crystal",
+      "shard"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

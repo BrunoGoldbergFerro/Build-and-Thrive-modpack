@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:observer",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_observer.title"
+    },
+    "description": {
+      "translate": "advancement.bat.redstone.get_observer.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/get_quartz",
+  "criteria": {
+    "observer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:observer"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "observer"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

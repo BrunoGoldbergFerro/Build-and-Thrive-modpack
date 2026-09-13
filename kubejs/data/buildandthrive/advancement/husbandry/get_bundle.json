@@ -1,0 +1,33 @@
+{
+  "parent": "buildandthrive:husbandry/breed_an_animal",
+  "criteria": {
+    "get_bundle": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:bundle"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.bat.husbandry.get_bundle.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:bundle"
+    },
+    "title": {
+      "translate": "advancements.bat.husbandry.get_bundle.title"
+    }
+  },
+  "requirements": [
+    [
+      "get_bundle"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

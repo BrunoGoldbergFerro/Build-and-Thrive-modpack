@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "autowork:enricher",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_enricher.title"
+    },
+    "description": {
+      "translate": "advancements.bat.redstone.get_enricher.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/get_drill",
+  "criteria": {
+    "enricher": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "autowork:enricher"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enricher"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:dropper",
+      "count": 1
+    },
+    "title": {
+      "translate": "advancements.bat.redstone.get_dropper.title"
+    },
+    "description": {
+      "translate": "advancements.bat.redstone.get_dropper.description"
+    },
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "buildandthrive:redstone/root",
+  "criteria": {
+    "dropper": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:dropper"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "dropper"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

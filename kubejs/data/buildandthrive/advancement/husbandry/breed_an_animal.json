@@ -1,0 +1,26 @@
+{
+  "parent": "buildandthrive:husbandry/plant_seed",
+  "criteria": {
+    "bred": {
+      "trigger": "minecraft:bred_animals"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.husbandry.breed_an_animal.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "minecraft:hay_block"
+    },
+    "title": {
+      "translate": "advancements.husbandry.breed_an_animal.title"
+    }
+  },
+  "requirements": [
+    [
+      "bred"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

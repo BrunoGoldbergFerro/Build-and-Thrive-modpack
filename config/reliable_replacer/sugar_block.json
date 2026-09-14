@@ -1,0 +1,8 @@
+[
+  {
+    "inputs": [
+      "cratedelight:sugar_bag"
+    ],
+    "output": "supplementaries:sugar_cube"
+  }
+]

@@ -802,6 +802,8 @@
 		#This is done to prevent content overlap.
 		#You can turn this on to force the feature to be loaded even if the above mods are also loaded.
 		"Ignore Anti Overlap" = false
+		#If true, the oak log in the vanilla azalea tree ConfiguredFeature will be replaced with Quark's azalea log. Disabling this makes Azalea unobtainable
+		"Replace Azalea Tree Log" = true
 
 	[world.big_stone_clusters]
 		#Blocks that stone clusters can replace. If you want to make it so it only replaces in one dimension,
@@ -1370,7 +1372,7 @@
 
 				#Biome tags for which this should spawn in. Must match both this and 'biomes' to spawn.
 				[mobs.crabs.spawn_config.biomes.tags]
-					"Biome Tags" = ["minecraft:is_beach"]
+					"Biome Tags" = ["minecraft:is_beach", "c:is_stony_shore", "c:is_swamp"]
 					"Is Blacklist" = false
 
 				#Biome names this should spawn in. Must match both this and 'types' to spawn.
@@ -1603,7 +1605,7 @@
 		"Food Divisor" = 2
 		"Show Saturation" = true
 		"Food Compression Threshold" = 4
-		"Fuel Time Divisor" = 200
+		"Fuel Time Divisor" = 20
 		#Should item attributes be colored relative to your current equipped item?
 		#e.g. if wearing an Iron Helmet, the armor value in a Diamond Helmet will show as green, and vice versa would be red.
 		#If set to false, item attributes will show in white or red if they're negative values.

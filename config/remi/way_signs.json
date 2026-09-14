@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:way_signs",
+  "type": "remi:group",
+  "contents": [
+    "#supplementaries:way_signs"
+  ]
+}

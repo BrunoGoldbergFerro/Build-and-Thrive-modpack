@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:tether_potions",
-  "type": "remi:group",
-  "contents": [
-    "caverns_and_chasms:tether_potion"
-  ]
-}

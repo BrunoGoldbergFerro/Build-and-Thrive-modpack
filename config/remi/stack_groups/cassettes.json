@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:cassettes",
-  "type": "remi:group",
-  "contents": [
-    "vista:cassette"
-  ]
-}

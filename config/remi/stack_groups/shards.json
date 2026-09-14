@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:shards",
-  "type": "remi:group",
-  "contents": [
-    "#quark:shards"
-  ]
-}

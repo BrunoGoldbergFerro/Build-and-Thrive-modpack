@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:flags",
-  "type": "remi:group",
-  "contents": [
-    "#supplementaries:flags"
-  ]
-}

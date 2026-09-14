@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:buntings",
-  "type": "remi:group",
-  "contents": [
-    "#supplementaries:buntings"
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:pathfinders_quills",
-  "type": "remi:group",
-  "contents": [
-    "quark:pathfinders_quill"
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:shelves",
-  "type": "remi:group",
-  "contents": [
-    "#minecraft:wooden_shelves"
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:bundles",
-  "type": "remi:group",
-  "contents": [
-    "#minecraft:bundles"
-  ]
-}

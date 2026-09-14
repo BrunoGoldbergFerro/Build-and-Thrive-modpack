@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:impact_potions",
-  "type": "remi:group",
-  "contents": [
-    "caverns_and_chasms:impact_potion"
-  ]
-}

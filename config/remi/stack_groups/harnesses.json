@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:harnesses",
-  "type": "remi:group",
-  "contents": [
-    "#minecraft:harnesses"
-  ]
-}

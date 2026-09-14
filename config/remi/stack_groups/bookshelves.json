@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:bookshelves",
-  "type": "remi:group",
-  "contents": [
-    "#c:bookshelves"
-  ]
-}

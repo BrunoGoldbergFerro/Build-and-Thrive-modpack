@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:seed_pouchs",
-  "type": "remi:group",
-  "contents": [
-    "quark:seed_pouch"
-  ]
-}

@@ -1,7 +1,0 @@
-{
-  "id": "buildandthrive:ancient_tomes",
-  "type": "remi:group",
-  "contents": [
-    "quark:ancient_tome"
-  ]
-}

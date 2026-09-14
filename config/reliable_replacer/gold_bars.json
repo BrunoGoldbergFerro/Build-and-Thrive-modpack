@@ -1,0 +1,8 @@
+[
+  {
+    "inputs": [
+      "quark:gold_bars"
+    ],
+    "output": "caverns_and_chasms:golden_bars"
+  }
+]

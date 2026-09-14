@@ -21,7 +21,7 @@
   "customInventoryButtonIcon": "minecraft:book",
   "enableEditMode": false,
   "showTooltipsInEditMode": false,
-  "showEditModeButton": true,
+  "showEditModeButton": false,
   "storeAdvancementEditsGlobally": true,
   "storeAdvancementEditsAsDatapack": false,
   "drawArrows": false,

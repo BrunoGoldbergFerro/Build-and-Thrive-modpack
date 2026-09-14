@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "caverns_and_chasms:raw_silver_block"
+  },
+  "result": {
+    "id": "caverns_and_chasms:silver_block"
+  },
+  "experience": 10,
+  "cookingtime": 900
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "caverns_and_chasms:raw_tin_block"
+  },
+  "result": {
+    "id": "caverns_and_chasms:tin_block"
+  },
+  "experience": 6.3,
+  "cookingtime": 900
+}

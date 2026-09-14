@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:torches",
+  "type": "remi:group",
+  "regexes": [
+    ".*:.*torch"
+  ]
+}

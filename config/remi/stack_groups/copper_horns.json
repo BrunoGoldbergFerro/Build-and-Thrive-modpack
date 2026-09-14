@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:copper_horns",
+  "type": "remi:group",
+  "contents": [
+    "caverns_and_chasms:copper_horn"
+  ]
+}

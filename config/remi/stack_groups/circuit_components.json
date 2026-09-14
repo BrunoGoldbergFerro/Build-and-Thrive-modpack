@@ -1,0 +1,16 @@
+{
+  "id": "buildandthrive:circuit_components",
+  "type": "remi:group",
+  "contents": [
+    "minecraft:repeater",
+    "minecraft:comparator",
+    "quark:redstone_randomizer",
+    "caverns_and_chasms:refractor",
+    "caverns_and_chasms:resistor",
+    "supplementaries:cog_block",
+    "autowork:andgate",
+    "autowork:redstone_hub",
+    "autowork:amethyst_bulb",
+    "autowork:quartz_bulb"
+  ]
+}

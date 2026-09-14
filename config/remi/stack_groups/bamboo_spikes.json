@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:bamboo_spikes",
+  "type": "remi:regex",
+  "regex": ".*:bamboo_spikes.*",
+  "name": "Bamboo Spikes"
+}

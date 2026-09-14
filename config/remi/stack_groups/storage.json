@@ -1,0 +1,12 @@
+{
+  "id": "buildandthrive:storage_items",
+  "type": "remi:group",
+  "contents": [
+    "minecraft:bundle",
+    "caverns_and_chasms:packing_container",
+    "supplementaries:lunch_basket",
+    "quark:backpack",
+    "supplementaries:quiver",
+    "supplementaries:sack"
+  ]
+}

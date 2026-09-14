@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:coral_blocks",
+  "type": "remi:regex",
+  "regex": ".*:.*_coral_block",
+  "name": "Coral Blocks",
+  "priority": 1
+}

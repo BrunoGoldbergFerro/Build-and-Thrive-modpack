@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:polished_blocks",
+  "type": "remi:regex",
+  "regex": ".*:polished_.*",
+  "name": "Polished Blocks",
+  "priority": 1
+}

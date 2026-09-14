@@ -1,0 +1,21 @@
+{
+  "id": "buildandthrive:storage_blocks",
+  "type": "remi:group",
+  "contents": [
+    "#c:storage_blocks",
+    "quark:sturdy_stone",
+    "caverns_and_chasms:amethyst_block",
+    "caverns_and_chasms:sanguine_block",
+    "caverns_and_chasms:tinplate_block",
+    "caverns_and_chasms:echo_block",
+    "quark:bonded_ravager_hide",
+    "minecraft:honey_block",
+    "minecraft:resin_block",
+    "caverns_and_chasms:gunpowder_block",
+    "caverns_and_chasms:rotten_flesh_block"
+  ],
+  "regexes": [
+    ".*:.*_crate",
+    ".*:.*_bag"
+  ]
+}

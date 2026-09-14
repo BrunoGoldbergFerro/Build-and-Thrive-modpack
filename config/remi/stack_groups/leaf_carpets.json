@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:leaf_carpets",
+  "type": "remi:regex",
+  "regex": ".*:.*_leaf_carpet",
+  "name": "Leaf Carpets"
+}

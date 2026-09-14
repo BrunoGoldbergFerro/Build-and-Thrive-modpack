@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:floodlights",
+  "type": "remi:regex",
+  "regex": ".*:.*floodlight",
+  "name": "Floodlights"
+}

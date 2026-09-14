@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:decorated_pots",
+  "type": "remi:regex",
+  "regex": ".*:.*decorated_pot*",
+  "name": "Decorated Pots"
+}

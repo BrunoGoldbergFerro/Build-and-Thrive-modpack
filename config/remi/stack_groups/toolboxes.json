@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:toolboxes",
+  "type": "remi:regex",
+  "regex": ".*:.*toolbox",
+  "name": "Toolboxes"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:corals",
+  "type": "remi:regex",
+  "regex": ".*:.*_coral",
+  "name": "Corals"
+}

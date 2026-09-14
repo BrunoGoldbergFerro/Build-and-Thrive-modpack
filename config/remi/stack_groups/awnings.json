@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:awnings",
+  "type": "remi:group",
+  "contents": [
+    "#supplementaries:awnings"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:lanterns",
+  "type": "remi:group",
+  "regexes": [
+    ".*:.*lantern"
+  ]
+}

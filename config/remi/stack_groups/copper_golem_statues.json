@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:copper_golem_statues",
+  "type": "remi:regex",
+  "regex": ".*:.*copper_golem_statue",
+  "name": "Copper Golem Statues"
+}

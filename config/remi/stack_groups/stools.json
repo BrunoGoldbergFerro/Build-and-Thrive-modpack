@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:stools",
+  "type": "remi:group",
+  "contents": [
+    "#quark:stools"
+  ]
+}

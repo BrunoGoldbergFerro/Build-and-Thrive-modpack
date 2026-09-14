@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "c:minecraft_entity_type_bosses",
+  "tag": "c:bosses",
+  "registry": "minecraft:entity_type",
+  "enabled": true
+}

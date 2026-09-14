@@ -1,0 +1,8 @@
+{
+  "id": "buildandthrive:heads",
+  "type": "remi:group",
+  "regexes": [
+    ".*:.*_head",
+    ".*:.*_skull"
+  ]
+}

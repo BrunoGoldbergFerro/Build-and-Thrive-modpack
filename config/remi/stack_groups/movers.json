@@ -1,0 +1,14 @@
+{
+  "id": "buildandthrive:block_movers",
+  "type": "remi:group",
+  "contents": [
+    "minecraft:piston",
+    "minecraft:sticky_piston",
+    "supplementaries:spring_launcher",
+    "supplementaries:turn_table",
+    "autowork:rotator",
+    "autowork:carrier",
+    "autowork:modular_carrier",
+    "autowork:sculk_mover"
+  ]
+}

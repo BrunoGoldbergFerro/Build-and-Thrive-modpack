@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:rails",
+  "type": "remi:regex",
+  "regex": ".*:.*rail",
+  "name": "Rails"
+}

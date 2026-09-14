@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:chests",
+  "type": "remi:group",
+  "contents": [
+    "#c:chests"
+  ]
+}

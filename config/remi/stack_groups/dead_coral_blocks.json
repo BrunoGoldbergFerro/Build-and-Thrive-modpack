@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:dead_coral_blocks",
+  "type": "remi:regex",
+  "regex": ".*:dead_.*_coral_block",
+  "priority": 2,
+  "name": "Dead Coral Blocks"
+}

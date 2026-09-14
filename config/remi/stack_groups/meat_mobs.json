@@ -1,0 +1,14 @@
+{
+  "id": "buildandthrive:meat_mobs",
+  "type": "remi:group",
+  "contents": [
+    "minecraft:cow_spawn_egg",
+    "minecraft:pig_spawn_egg",
+    "minecraft:chicken_spawn_egg",
+    "minecraft:sheep_spawn_egg",
+    "minecraft:rabbit_spawn_egg",
+    "quark:crab_spawn_egg",
+    "minecraft:mooshroom_spawn_egg",
+    "minecraft:hoglin_spawn_egg"
+  ]
+}

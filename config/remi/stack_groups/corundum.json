@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:corundum",
+  "type": "remi:regex",
+  "priority": 0,
+  "regex": ".*:.*corundum.*",
+  "name": "Corundum"
+}

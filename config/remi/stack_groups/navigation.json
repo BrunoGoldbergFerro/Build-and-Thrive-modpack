@@ -1,0 +1,12 @@
+{
+  "id": "buildandthrive:navigation",
+  "type": "remi:group",
+  "contents": [
+    "minecraft:compass",
+    "minecraft:recovery_compass",
+    "caverns_and_chasms:depth_gauge",
+    "minecraft:map",
+    "supplementaries:slice_map",
+    "map_atlases:atlas"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:coral_fans",
+  "type": "remi:regex",
+  "priority": 1,
+  "regex": ".*:.*coral_fan",
+  "name": "Coral Fans"
+}

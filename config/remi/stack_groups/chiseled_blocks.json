@@ -1,0 +1,7 @@
+{
+  "id": "buildandthrive:chiseled_blocks",
+  "type": "remi:regex",
+  "priority": 1,
+  "regex": ".*:.*chiseled_.*",
+  "name": "Chiseled Blocks"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:bars",
+  "type": "remi:regex",
+  "regex": ".*:.*_bars",
+  "name": "Bars"
+}

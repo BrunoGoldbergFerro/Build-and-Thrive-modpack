@@ -1,0 +1,7 @@
+{
+  "type": "remi:tag",
+  "id": "buildandthrive:minecraft_entity_type_creepers",
+  "tag": "buildandthrive:creepers",
+  "registry": "minecraft:entity_type",
+  "enabled": true
+}

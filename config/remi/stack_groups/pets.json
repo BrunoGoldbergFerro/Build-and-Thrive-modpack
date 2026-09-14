@@ -1,0 +1,12 @@
+{
+  "id": "buildandthrive:pets",
+  "type": "remi:group",
+  "contents": [
+    "quark:shiba_spawn_egg",
+    "quark:foxhound_spawn_egg",
+    "minecraft:wolf_spawn_egg",
+    "minecraft:cat_spawn_egg",
+    "minecraft:axolotl_spawn_egg",
+    "caverns_and_chasms:rat_spawn_egg"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "buildandthrive:copper_chests",
+  "type": "remi:regex",
+  "regex": ".*:.*copper_chest",
+  "name": "Copper Chests"
+}

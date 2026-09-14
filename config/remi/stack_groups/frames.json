@@ -1,0 +1,12 @@
+{
+  "id": "buildandthrive:frames",
+  "type": "remi:group",
+  "contents": [
+   "advancementframes:advancement_frame",
+   "advancementframes:stat_frame",
+   "minecraft:item_frame",
+   "minecraft:glow_item_frame",
+   "quark:glass_item_frame",
+   "quark:glowing_glass_item_frame"
+  ]
+}

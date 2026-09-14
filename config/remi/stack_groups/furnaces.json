@@ -1,0 +1,12 @@
+{
+  "id": "buildandthrive:shards",
+  "type": "remi:group",
+  "contents": [
+    "minecraft:furnace",
+    "minecraft:blast_furnace",
+    "minecraft:smoker",
+    "clayworks:kiln",
+    "quark:deepslate_furnace",
+    "quark:blackstone_furnace"
+  ]
+}

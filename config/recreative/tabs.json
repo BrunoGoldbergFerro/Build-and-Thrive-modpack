@@ -1,0 +1,1301 @@
+[
+  {
+    "action": "remove_tab",
+    "tab": [
+      "cratedelight:cratedelight_tab",
+      "choppersdelight:choppersdelight_tab",
+      "everycomp:everycomp",
+      "farmersdelight:farmersdelight",
+      "animalweights:main",
+      "vanillabackport:vanilla_backport",
+      "autowork:autowork_tab",
+      "kubejs:tab"
+    ],
+    "remove_items": [],
+    "add_items": [],
+    "order": []
+  },
+  {
+    "action": "tab_order",
+    "tab": [],
+    "remove_items": [],
+    "add_items": [],
+    "order": [
+      "minecraft:building_blocks",
+      "minecraft:colored_blocks",
+      "minecraft:natural_blocks",
+      "minecraft:functional_blocks",
+      "minecraft:redstone_blocks",
+      "minecraft:tools_and_utilities",
+      "minecraft:combat",
+      "minecraft:food_and_drinks",
+      "minecraft:ingredients",
+      "minecraft:spawn_eggs",
+      "minecraft:hotbar",
+      "cratedelight:cratedelight_tab",
+      "caverns_and_chasms:copper",
+      "choppersdelight:choppersdelight_tab",
+      "everycomp:everycomp",
+      "minecraft:op_blocks",
+      "stonezone:stonezone",
+      "minecraft:search",
+      "farmersdelight:farmersdelight",
+      "animalweights:main",
+      "vanillabackport:vanilla_backport",
+      "autowork:autowork_tab",
+      "caverns_and_chasms:caverns_and_chasms",
+      "kubejs:tab",
+      "minecraft:inventory",
+      "gemsrealm:gems_realm"
+    ]
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:building_blocks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:oak_cabinet",
+        "after": "minecraft:oak_button"
+      },
+      {
+        "item": "choppersdelight:oak_cutting_board",
+        "after": "farmersdelight:oak_cabinet"
+      },
+      {
+        "item": "farmersdelight:spruce_cabinet",
+        "after": "minecraft:spruce_button"
+      },
+      {
+        "item": "farmersdelight:cutting_board",
+        "after": "farmersdelight:spruce_cabinet"
+      },
+      {
+        "item": "farmersdelight:birch_cabinet",
+        "after": "minecraft:birch_button"
+      },
+      {
+        "item": "choppersdelight:birch_cutting_board",
+        "after": "farmersdelight:birch_cabinet"
+      },
+      {
+        "item": "farmersdelight:jungle_cabinet",
+        "after": "minecraft:jungle_button"
+      },
+      {
+        "item": "choppersdelight:jungle_cutting_board",
+        "after": "farmersdelight:jungle_cabinet"
+      },
+      {
+        "item": "farmersdelight:acacia_cabinet",
+        "after": "minecraft:acacia_button"
+      },
+      {
+        "item": "choppersdelight:acacia_cutting_board",
+        "after": "farmersdelight:acacia_cabinet"
+      },
+      {
+        "item": "farmersdelight:dark_oak_cabinet",
+        "after": "minecraft:dark_oak_button"
+      },
+      {
+        "item": "choppersdelight:dark_oak_cutting_board",
+        "after": "farmersdelight:dark_oak_cabinet"
+      },
+      {
+        "item": "farmersdelight:mangrove_cabinet",
+        "after": "minecraft:mangrove_button"
+      },
+      {
+        "item": "choppersdelight:mangrove_cutting_board",
+        "after": "farmersdelight:mangrove_cabinet"
+      },
+      {
+        "item": "farmersdelight:cherry_cabinet",
+        "after": "minecraft:cherry_button"
+      },
+      {
+        "item": "choppersdelight:cherry_cutting_board",
+        "after": "farmersdelight:cherry_cabinet"
+      },
+      {
+        "item": "everycomp:fd/minecraft/pale_oak_cabinet",
+        "after": "everycomp:q/minecraft/pale_oak_bookshelf"
+      },
+      {
+        "item": "choppersdelight:pale_oak_cutting_board",
+        "after": "everycomp:fd/minecraft/pale_oak_cabinet"
+      },
+      {
+        "item": "abnormals_delight:azalea_cabinet",
+        "after": "everycomp:q/caverns_and_chasms/trapped_azalea_chest"
+      },
+      {
+        "item": "everycomp:chd/caverns_and_chasms/azalea_cutting_board",
+        "after": "abnormals_delight:azalea_cabinet"
+      },
+      {
+        "item": "everycomp:fd/quark/blossom_cabinet",
+        "after": "quark:blossom_button"
+      },
+      {
+        "item": "everycomp:chd/quark/blossom_cutting_board",
+        "after": "everycomp:fd/quark/blossom_cabinet"
+      },
+      {
+        "item": "farmersdelight:bamboo_cabinet",
+        "after": "minecraft:bamboo_button"
+      },
+      {
+        "item": "choppersdelight:bamboo_cutting_board",
+        "after": "farmersdelight:bamboo_cabinet"
+      },
+      {
+        "item": "farmersdelight:crimson_cabinet",
+        "after": "minecraft:crimson_button"
+      },
+      {
+        "item": "choppersdelight:crimson_cutting_board",
+        "after": "farmersdelight:crimson_cabinet"
+      },
+      {
+        "item": "farmersdelight:warped_cabinet",
+        "after": "minecraft:warped_button"
+      },
+      {
+        "item": "choppersdelight:warped_cutting_board",
+        "after": "farmersdelight:warped_cabinet"
+      },
+      {
+        "item": "cratedelight:berry_crate",
+        "after": "quark:bonded_rabbit_hide"
+      },
+      {
+        "item": "cratedelight:poisonous_potato_crate",
+        "after": "cratedelight:berry_crate"
+      },
+      {
+        "item": "farmersdelight:tomato_crate",
+        "after": "cratedelight:poisonous_potato_crate"
+      },
+      {
+        "item": "cratedelight:pumpkin_slice_crate",
+        "after": "farmersdelight:tomato_crate"
+      },
+      {
+        "item": "cratedelight:melon_seeds_bag",
+        "after": "cratedelight:pumpkin_slice_crate"
+      },
+      {
+        "item": "farmersdelight:carrot_crate",
+        "after": "cratedelight:melon_seeds_bag"
+      },
+      {
+        "item": "farmersdelight:potato_crate",
+        "after": "farmersdelight:carrot_crate"
+      },
+      {
+        "item": "cratedelight:red_mushroom_crate",
+        "after": "farmersdelight:potato_crate"
+      },
+      {
+        "item": "cratedelight:bread_bag",
+        "after": "cratedelight:red_mushroom_crate"
+      },
+      {
+        "item": "cratedelight:cocoabeans_bag",
+        "after": "cratedelight:bread_bag"
+      },
+      {
+        "item": "cratedelight:pumpkin_seeds_bag",
+        "after": "cratedelight:cocoabeans_bag"
+      },
+      {
+        "item": "cratedelight:sugar_bag",
+        "after": "cratedelight:pumpkin_seeds_bag"
+      },
+      {
+        "item": "farmersdelight:cabbage_crate",
+        "after": "cratedelight:sugar_bag"
+      },
+      {
+        "item": "cratedelight:egg_crate",
+        "after": "farmersdelight:cabbage_crate"
+      },
+      {
+        "item": "cratedelight:golden_apple_crate",
+        "after": "cratedelight:egg_crate"
+      },
+      {
+        "item": "cratedelight:pufferfish_crate",
+        "after": "cratedelight:golden_apple_crate"
+      },
+      {
+        "item": "cratedelight:salmon_crate",
+        "after": "cratedelight:pufferfish_crate"
+      },
+      {
+        "item": "cratedelight:tropical_fish_crate",
+        "after": "cratedelight:salmon_crate"
+      },
+      {
+        "item": "cratedelight:cod_crate",
+        "after": "cratedelight:tropical_fish_crate"
+      },
+      {
+        "item": "farmersdelight:onion_crate",
+        "after": "cratedelight:cod_crate"
+      },
+      {
+        "item": "cratedelight:glowberry_crate",
+        "after": "farmersdelight:onion_crate"
+      },
+      {
+        "item": "cratedelight:brown_mushroom_crate",
+        "after": "cratedelight:glowberry_crate"
+      },
+      {
+        "item": "cratedelight:golden_carrot_crate",
+        "after": "cratedelight:brown_mushroom_crate"
+      },
+      {
+        "item": "farmersdelight:beetroot_crate",
+        "after": "cratedelight:golden_carrot_crate"
+      },
+      {
+        "item": "cratedelight:wheat_seeds_bag",
+        "after": "farmersdelight:beetroot_crate"
+      },
+      {
+        "item": "cratedelight:beetroot_seeds_bag",
+        "after": "cratedelight:wheat_seeds_bag"
+      },
+      {
+        "item": "cratedelight:apple_crate",
+        "after": "cratedelight:beetroot_seeds_bag"
+      },
+      {
+        "item": "farmersdelight:rice_bag",
+        "after": "cratedelight:apple_crate"
+      },
+      {
+        "item": "cratedelight:cookie_bag",
+        "after": "farmersdelight:rice_bag"
+      },
+      {
+        "item": "farmersdelight:rice_bale",
+        "after": "cratedelight:cookie_bag"
+      },
+      {
+        "item": "farmersdelight:straw_bale",
+        "after": "farmersdelight:rice_bale"
+      },
+      {
+        "item": "farmersdelight:tatami",
+        "after": "quark:bamboo_mat_carpet"
+      },
+      {
+        "item": "farmersdelight:canvas_rug",
+        "after": "farmersdelight:tatami"
+      },
+      {
+        "item": "farmersdelight:full_tatami_mat",
+        "after": "farmersdelight:canvas_rug"
+      },
+      {
+        "item": "farmersdelight:half_tatami_mat",
+        "after": "farmersdelight:full_tatami_mat"
+      },
+      {
+        "item": "farmersdelight:cherry_cabinet",
+        "after": "quark:red_blossom_hedge"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:food_and_drinks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:pumpkin_slice",
+        "after": "minecraft:golden_carrot"
+      },
+      {
+        "item": "farmersdelight:onion",
+        "after": "farmersdelight:pumpkin_slice"
+      },
+      {
+        "item": "farmersdelight:cabbage",
+        "after": "farmersdelight:onion"
+      },
+      {
+        "item": "farmersdelight:cabbage_leaf",
+        "after": "farmersdelight:cabbage"
+      },
+      {
+        "item": "farmersdelight:tomato",
+        "after": "farmersdelight:cabbage_leaf"
+      },
+      {
+        "item": "farmersdelight:cooked_rice",
+        "after": "farmersdelight:tomato"
+      },
+      {
+        "item": "farmersdelight:minced_beef",
+        "after": "minecraft:beef"
+      },
+      {
+        "item": "farmersdelight:beef_patty",
+        "after": "minecraft:cooked_beef"
+      },
+      {
+        "item": "farmersdelight:ham",
+        "after": "farmersdelight:beef_patty"
+      },
+      {
+        "item": "farmersdelight:bacon",
+        "after": "minecraft:porkchop"
+      },
+      {
+        "item": "farmersdelight:smoked_ham",
+        "after": "farmersdelight:bacon"
+      },
+      {
+        "item": "farmersdelight:cooked_bacon",
+        "after": "minecraft:cooked_porkchop"
+      },
+      {
+        "item": "farmersdelight:mutton_chops",
+        "after": "minecraft:mutton"
+      },
+      {
+        "item": "farmersdelight:cooked_mutton_chops",
+        "after": "minecraft:cooked_mutton"
+      },
+      {
+        "item": "farmersdelight:chicken_cuts",
+        "after": "minecraft:chicken"
+      },
+      {
+        "item": "farmersdelight:cooked_chicken_cuts",
+        "after": "minecraft:cooked_chicken"
+      },
+      {
+        "item": "farmersdelight:cod_slice",
+        "after": "minecraft:cod"
+      },
+      {
+        "item": "farmersdelight:cod_roll",
+        "after": "farmersdelight:cod_slice"
+      },
+      {
+        "item": "farmersdelight:cooked_cod_slice",
+        "after": "minecraft:cooked_cod"
+      },
+      {
+        "item": "farmersdelight:salmon_slice",
+        "after": "minecraft:salmon"
+      },
+      {
+        "item": "farmersdelight:salmon_roll",
+        "after": "farmersdelight:salmon_slice"
+      },
+      {
+        "item": "farmersdelight:cooked_salmon_slice",
+        "after": "minecraft:cooked_salmon"
+      },
+      {
+        "item": "farmersdelight:barbecue_stick",
+        "after": "quark:crab_leg"
+      },
+      {
+        "item": "farmersdelight:fried_egg",
+        "after": "farmersdelight:barbecue_stick"
+      },
+      {
+        "item": "farmersdelight:wheat_dough",
+        "after": "farmersdelight:fried_egg"
+      },
+      {
+        "item": "farmersdelight:chicken_sandwich",
+        "after": "minecraft:bread"
+      },
+      {
+        "item": "farmersdelight:egg_sandwich",
+        "after": "farmersdelight:chicken_sandwich"
+      },
+      {
+        "item": "farmersdelight:bacon_sandwich",
+        "after": "farmersdelight:egg_sandwich"
+      },
+      {
+        "item": "farmersdelight:hamburger",
+        "after": "farmersdelight:bacon_sandwich"
+      },
+      {
+        "item": "farmersdelight:raw_pasta",
+        "after": "farmersdelight:hamburger"
+      },
+      {
+        "item": "farmersdelight:pasta_with_mutton_chop",
+        "after": "farmersdelight:raw_pasta"
+      },
+      {
+        "item": "farmersdelight:squid_ink_pasta",
+        "after": "farmersdelight:pasta_with_mutton_chop"
+      },
+      {
+        "item": "farmersdelight:pasta_with_meatballs",
+        "after": "farmersdelight:squid_ink_pasta"
+      },
+      {
+        "item": "farmersdelight:sweet_berry_cookie",
+        "after": "minecraft:cookie"
+      },
+      {
+        "item": "farmersdelight:honey_cookie",
+        "after": "farmersdelight:sweet_berry_cookie"
+      },
+      {
+        "item": "farmersdelight:cake_slice",
+        "after": "minecraft:cake"
+      },
+      {
+        "item": "farmersdelight:pie_crust",
+        "after": "farmersdelight:cake_slice"
+      },
+      {
+        "item": "farmersdelight:pumpkin_pie_slice",
+        "after": "minecraft:pumpkin_pie"
+      },
+      {
+        "item": "farmersdelight:apple_pie",
+        "after": "farmersdelight:pumpkin_pie_slice"
+      },
+      {
+        "item": "farmersdelight:apple_pie_slice",
+        "after": "farmersdelight:apple_pie"
+      },
+      {
+        "item": "farmersdelight:chocolate_pie",
+        "after": "farmersdelight:apple_pie_slice"
+      },
+      {
+        "item": "farmersdelight:chocolate_pie_slice",
+        "after": "farmersdelight:chocolate_pie"
+      },
+      {
+        "item": "farmersdelight:sweet_berry_cheesecake",
+        "after": "farmersdelight:chocolate_pie_slice"
+      },
+      {
+        "item": "farmersdelight:sweet_berry_cheesecake_slice",
+        "after": "farmersdelight:sweet_berry_cheesecake"
+      },
+      {
+        "item": "farmersdelight:shepherds_pie_block",
+        "after": "farmersdelight:sweet_berry_cheesecake_slice"
+      },
+      {
+        "item": "farmersdelight:shepherds_pie",
+        "after": "farmersdelight:shepherds_pie_block"
+      },
+      {
+        "item": "farmersdelight:stuffed_pumpkin_block",
+        "after": "farmersdelight:shepherds_pie"
+      },
+      {
+        "item": "farmersdelight:stuffed_pumpkin",
+        "after": "farmersdelight:stuffed_pumpkin_block"
+      },
+      {
+        "item": "farmersdelight:honey_glazed_ham_block",
+        "after": "farmersdelight:stuffed_pumpkin"
+      },
+      {
+        "item": "farmersdelight:honey_glazed_ham",
+        "after": "farmersdelight:honey_glazed_ham_block"
+      },
+      {
+        "item": "farmersdelight:roast_chicken_block",
+        "after": "farmersdelight:honey_glazed_ham"
+      },
+      {
+        "item": "farmersdelight:roast_chicken",
+        "after": "farmersdelight:roast_chicken_block"
+      },
+      {
+        "item": "farmersdelight:gleaming_salad_block",
+        "after": "farmersdelight:roast_chicken"
+      },
+      {
+        "item": "farmersdelight:gleaming_salad",
+        "after": "farmersdelight:gleaming_salad_block"
+      },
+      {
+        "item": "farmersdelight:mushroom_rice",
+        "after": "farmersdelight:gleaming_salad"
+      },
+      {
+        "item": "farmersdelight:grilled_salmon",
+        "after": "farmersdelight:mushroom_rice"
+      },
+      {
+        "item": "farmersdelight:vegetable_noodles",
+        "after": "farmersdelight:grilled_salmon"
+      },
+      {
+        "item": "farmersdelight:kelp_roll",
+        "after": "farmersdelight:vegetable_noodles"
+      },
+      {
+        "item": "farmersdelight:kelp_roll_slice",
+        "after": "farmersdelight:kelp_roll"
+      },
+      {
+        "item": "farmersdelight:dumplings",
+        "after": "farmersdelight:kelp_roll_slice"
+      },
+      {
+        "item": "farmersdelight:cabbage_rolls",
+        "after": "farmersdelight:dumplings"
+      },
+      {
+        "item": "farmersdelight:stuffed_potato",
+        "after": "farmersdelight:cabbage_rolls"
+      },
+      {
+        "item": "farmersdelight:mutton_wrap",
+        "after": "farmersdelight:stuffed_potato"
+      },
+      {
+        "item": "farmersdelight:ratatouille",
+        "after": "farmersdelight:mutton_wrap"
+      },
+      {
+        "item": "farmersdelight:fried_rice",
+        "after": "farmersdelight:ratatouille"
+      },
+      {
+        "item": "farmersdelight:roasted_mutton_chops",
+        "after": "farmersdelight:fried_rice"
+      },
+      {
+        "item": "farmersdelight:steak_and_potatoes",
+        "after": "farmersdelight:roasted_mutton_chops"
+      },
+      {
+        "item": "farmersdelight:bacon_and_eggs",
+        "after": "farmersdelight:steak_and_potatoes"
+      },
+      {
+        "item": "farmersdelight:mixed_salad",
+        "after": "farmersdelight:bacon_and_eggs"
+      },
+      {
+        "item": "farmersdelight:nether_salad",
+        "after": "farmersdelight:mixed_salad"
+      },
+      {
+        "item": "farmersdelight:fruit_salad",
+        "after": "farmersdelight:nether_salad"
+      },
+      {
+        "item": "farmersdelight:dog_food",
+        "after": "minecraft:spider_eye"
+      },
+      {
+        "item": "farmersdelight:horse_feed",
+        "after": "farmersdelight:dog_food"
+      },
+      {
+        "item": "farmersdelight:beef_stew",
+        "after": "farmersdelight:horse_feed"
+      },
+      {
+        "item": "farmersdelight:onion_soup",
+        "after": "farmersdelight:beef_stew"
+      },
+      {
+        "item": "farmersdelight:fish_stew",
+        "after": "farmersdelight:onion_soup"
+      },
+      {
+        "item": "farmersdelight:bone_broth",
+        "after": "farmersdelight:fish_stew"
+      },
+      {
+        "item": "farmersdelight:chicken_soup",
+        "after": "farmersdelight:bone_broth"
+      },
+      {
+        "item": "farmersdelight:noodle_soup",
+        "after": "farmersdelight:chicken_soup"
+      },
+      {
+        "item": "farmersdelight:baked_cod_stew",
+        "after": "farmersdelight:noodle_soup"
+      },
+      {
+        "item": "farmersdelight:pumpkin_soup",
+        "after": "farmersdelight:baked_cod_stew"
+      },
+      {
+        "item": "farmersdelight:vegetable_soup",
+        "after": "farmersdelight:pumpkin_soup"
+      },
+      {
+        "item": "farmersdelight:melon_popsicle",
+        "after": {
+          "item": "minecraft:suspicious_stew",
+          "components": {
+            "minecraft:suspicious_stew_effects": [
+              {
+                "id": "minecraft:nausea",
+                "duration": 140
+              }
+            ]
+          }
+        }
+      },
+      {
+        "item": "farmersdelight:milk_bottle",
+        "after": "caverns_and_chasms:golden_milk_bucket"
+      },
+      {
+        "item": "farmersdelight:hot_cocoa",
+        "after": "farmersdelight:milk_bottle"
+      },
+      {
+        "item": "farmersdelight:melon_juice",
+        "after": "farmersdelight:hot_cocoa"
+      },
+      {
+        "item": "farmersdelight:glow_berry_custard",
+        "after": "minecraft:honey_bottle"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:ingredients"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:straw",
+        "after": "minecraft:stick"
+      },
+      {
+        "item": "farmersdelight:tree_bark",
+        "after": "farmersdelight:straw"
+      },
+      {
+        "item": "farmersdelight:canvas",
+        "after": "farmersdelight:tree_bark"
+      },
+      {
+        "item": "farmersdelight:rice_panicle",
+        "after": "supplementaries:flax"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:functional_blocks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:stove",
+        "after": "minecraft:blast_furnace"
+      },
+      {
+        "item": "farmersdelight:cooking_pot",
+        "after": "caverns_and_chasms:cupric_campfire"
+      },
+      {
+        "item": "farmersdelight:safety_net",
+        "after": "caverns_and_chasms:bejeweled_anvil"
+      },
+      {
+        "item": "farmersdelight:wooden_basket",
+        "after": "quark:crate"
+      },
+      {
+        "item": "farmersdelight:bamboo_basket",
+        "after": "farmersdelight:wooden_basket"
+      },
+      {
+        "item": "minecraft:creaking_heart",
+        "after": "minecraft:vault"
+      },
+      {
+        "item": "minecraft:spawner",
+        "after": "minecraft:creaking_heart"
+      },
+      {
+        "item": "minecraft:trial_spawner",
+        "after": "minecraft:spawner"
+      },
+      {
+        "item": "quark:monster_box",
+        "after": "minecraft:trial_spawner"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:tools_and_utilities"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:flint_knife",
+        "after": "minecraft:stone_hoe"
+      },
+      {
+        "item": "farmersdelight:iron_knife",
+        "after": "minecraft:iron_hoe"
+      },
+      {
+        "item": "farmersdelight:golden_knife",
+        "after": "minecraft:golden_hoe"
+      },
+      {
+        "item": "abnormals_delight:silver_knife",
+        "after": "caverns_and_chasms:silver_hoe"
+      },
+      {
+        "item": "farmersdelight:diamond_knife",
+        "after": "quark:pickarang"
+      },
+      {
+        "item": "farmersdelight:netherite_knife",
+        "after": "quark:flamerang"
+      },
+      {
+        "item": "abnormals_delight:necromium_knife",
+        "after": "caverns_and_chasms:necromium_hoe"
+      },
+      {
+        "item": "animalweights:magnifying_glass",
+        "after": "minecraft:flint_and_steel"
+      },
+      {
+        "item": "farmersdelight:skillet",
+        "after": "minecraft:brush"
+      },
+      {
+        "item": "caverns_and_chasms:bejeweled_pearl",
+        "after": "minecraft:ender_pearl"
+      },
+      {
+        "item": "quark:soul_bead",
+        "after": "caverns_and_chasms:bejeweled_pearl"
+      },
+      {
+        "item": "kubejs:magnetic_eye",
+        "after": "quark:soul_bead"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:colored_blocks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:canvas_sign",
+        "after": "quark:black_crystal_lamp"
+      },
+      {
+        "item": "farmersdelight:white_canvas_sign",
+        "after": "farmersdelight:canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_gray_canvas_sign",
+        "after": "farmersdelight:white_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:gray_canvas_sign",
+        "after": "farmersdelight:light_gray_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:black_canvas_sign",
+        "after": "farmersdelight:gray_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:brown_canvas_sign",
+        "after": "farmersdelight:black_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:red_canvas_sign",
+        "after": "farmersdelight:brown_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:orange_canvas_sign",
+        "after": "farmersdelight:red_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:yellow_canvas_sign",
+        "after": "farmersdelight:orange_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:lime_canvas_sign",
+        "after": "farmersdelight:yellow_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:green_canvas_sign",
+        "after": "farmersdelight:lime_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:cyan_canvas_sign",
+        "after": "farmersdelight:green_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_blue_canvas_sign",
+        "after": "farmersdelight:cyan_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:blue_canvas_sign",
+        "after": "farmersdelight:light_blue_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:purple_canvas_sign",
+        "after": "farmersdelight:blue_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:magenta_canvas_sign",
+        "after": "farmersdelight:purple_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:pink_canvas_sign",
+        "after": "farmersdelight:magenta_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:hanging_canvas_sign",
+        "after": "farmersdelight:pink_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:white_hanging_canvas_sign",
+        "after": "farmersdelight:hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_gray_hanging_canvas_sign",
+        "after": "farmersdelight:white_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:gray_hanging_canvas_sign",
+        "after": "farmersdelight:light_gray_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:black_hanging_canvas_sign",
+        "after": "farmersdelight:gray_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:brown_hanging_canvas_sign",
+        "after": "farmersdelight:black_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:red_hanging_canvas_sign",
+        "after": "farmersdelight:brown_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:orange_hanging_canvas_sign",
+        "after": "farmersdelight:red_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:yellow_hanging_canvas_sign",
+        "after": "farmersdelight:orange_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:lime_hanging_canvas_sign",
+        "after": "farmersdelight:yellow_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:green_hanging_canvas_sign",
+        "after": "farmersdelight:lime_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:cyan_hanging_canvas_sign",
+        "after": "farmersdelight:green_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:light_blue_hanging_canvas_sign",
+        "after": "farmersdelight:cyan_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:blue_hanging_canvas_sign",
+        "after": "farmersdelight:light_blue_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:purple_hanging_canvas_sign",
+        "after": "farmersdelight:blue_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:magenta_hanging_canvas_sign",
+        "after": "farmersdelight:purple_hanging_canvas_sign"
+      },
+      {
+        "item": "farmersdelight:pink_hanging_canvas_sign",
+        "after": "farmersdelight:magenta_hanging_canvas_sign"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:redstone_blocks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "autowork:andgate",
+        "after": "caverns_and_chasms:resistor"
+      },
+      {
+        "item": "autowork:amethyst_bulb",
+        "after": "caverns_and_chasms:tin_bulb"
+      },
+      {
+        "item": "autowork:quartz_bulb",
+        "after": "autowork:amethyst_bulb"
+      },
+      {
+        "item": "autowork:rotator",
+        "after": "minecraft:sticky_piston"
+      },
+      {
+        "item": "autowork:carrier",
+        "after": "autowork:rotator"
+      },
+      {
+        "item": "autowork:modular_carrier",
+        "after": "autowork:carrier"
+      },
+      {
+        "item": "autowork:sculk_mover",
+        "after": "autowork:modular_carrier"
+      },
+      {
+        "item": "autowork:drill",
+        "after": "minecraft:crafter"
+      },
+      {
+        "item": "autowork:placer",
+        "after": "autowork:drill"
+      },
+      {
+        "item": "autowork:enricher",
+        "after": "autowork:placer"
+      },
+      {
+        "item": "autowork:painter",
+        "after": "autowork:enricher"
+      },
+      {
+        "item": "autowork:dye_cartridge",
+        "after": "autowork:painter"
+      },
+      {
+        "item": "autowork:repair_station",
+        "after": "autowork:dye_cartridge"
+      },
+      {
+        "item": "autowork:chute",
+        "after": "minecraft:hopper"
+      },
+      {
+        "item": "autowork:filter_chute",
+        "after": "autowork:chute"
+      },
+      {
+        "item": "autowork:extractor",
+        "after": "autowork:filter_chute"
+      },
+      {
+        "item": "autowork:breeze_collector",
+        "after": "autowork:extractor"
+      },
+      {
+        "item": "autowork:buffered_breeze_collector",
+        "after": "autowork:breeze_collector"
+      },
+      {
+        "item": "autowork:distributor",
+        "after": "autowork:buffered_breeze_collector"
+      },
+      {
+        "item": "autowork:sculk_cell",
+        "after": "minecraft:decorated_pot"
+      },
+      {
+        "item": "autowork:controlled_catalyst",
+        "after": "autowork:sculk_cell"
+      },
+      {
+        "item": "autowork:fluid_barrel",
+        "after": "autowork:controlled_catalyst"
+      },
+      {
+        "item": "autowork:fluid_extractor",
+        "after": "autowork:fluid_barrel"
+      },
+      {
+        "item": "autowork:pump",
+        "after": "autowork:fluid_extractor"
+      },
+      {
+        "item": "autowork:spiller",
+        "after": "autowork:pump"
+      },
+      {
+        "item": "autowork:smelter",
+        "after": "autowork:spiller"
+      },
+      {
+        "item": "autowork:precise_observer",
+        "after": "minecraft:observer"
+      },
+      {
+        "item": "autowork:railway_observer",
+        "after": "autowork:precise_observer"
+      },
+      {
+        "item": "autowork:cartrefiller",
+        "after": "caverns_and_chasms:tmt_minecart"
+      },
+      {
+        "item": "autowork:buffered_cartrefiller",
+        "after": "autowork:cartrefiller"
+      },
+      {
+        "item": "autowork:cartloader",
+        "after": "autowork:buffered_cartrefiller"
+      },
+      {
+        "item": "autowork:buffered_cartloader",
+        "after": "autowork:cartloader"
+      },
+      {
+        "item": "autowork:cartunloader",
+        "after": "autowork:buffered_cartloader"
+      },
+      {
+        "item": "autowork:buffered_cartunloader",
+        "after": "autowork:cartunloader"
+      },
+      {
+        "item": "autowork:holder",
+        "after": "quark:encased_pipe"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:spawn_eggs"
+    ],
+    "name": "Mobs",
+    "icon": "minecraft:creeper_spawn_egg",
+    "remove_items": [
+      "minecraft:trial_spawner",
+      "minecraft:creaking_heart",
+      "quark:monster_box",
+      "minecraft:spawner"
+    ],
+    "add_items": [
+      {
+        "item": "minecraft:wither_spawn_egg",
+        "after": "quark:wraith_spawn_egg"
+      },
+      {
+        "item": "minecraft:ender_dragon_spawn_egg",
+        "after": "minecraft:wither_spawn_egg"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:natural_blocks"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:rich_soil",
+        "after": "minecraft:farmland"
+      },
+      {
+        "item": "farmersdelight:rich_soil_farmland",
+        "after": "farmersdelight:rich_soil"
+      },
+      {
+        "item": "autowork:enriched_coal_ore",
+        "after": "minecraft:coal_ore"
+      },
+      {
+        "item": "autowork:deepslate_enriched_coal_ore",
+        "after": "minecraft:deepslate_coal_ore"
+      },
+      {
+        "item": "autowork:enriched_gold_ore",
+        "after": "minecraft:gold_ore"
+      },
+      {
+        "item": "autowork:deepslate_enriched_gold_ore",
+        "after": "minecraft:deepslate_gold_ore"
+      },
+      {
+        "item": "autowork:enriched_redstone_ore",
+        "after": "minecraft:redstone_ore"
+      },
+      {
+        "item": "autowork:deepslate_enriched_redstone_ore",
+        "after": "minecraft:deepslate_redstone_ore"
+      },
+      {
+        "item": "autowork:enriched_emerald_ore",
+        "after": "minecraft:emerald_ore"
+      },
+      {
+        "item": "autowork:deepslate_enriched_emerald_ore",
+        "after": "minecraft:deepslate_emerald_ore"
+      },
+      {
+        "item": "autowork:enriched_lapis_ore",
+        "after": "minecraft:lapis_ore"
+      },
+      {
+        "item": "autowork:deepslate_enriched_lapis_ore",
+        "after": "minecraft:deepslate_lapis_ore"
+      },
+      {
+        "item": "autowork:enriched_diamond_ore",
+        "after": "minecraft:diamond_ore"
+      },
+      {
+        "item": "autowork:deepslate_enriched_diamond_ore",
+        "after": "minecraft:deepslate_diamond_ore"
+      },
+      {
+        "item": "autowork:enriched_nether_gold_ore",
+        "after": "minecraft:nether_gold_ore"
+      },
+      {
+        "item": "autowork:enriched_nether_quartz_ore",
+        "after": "minecraft:nether_quartz_ore"
+      },
+      {
+        "item": "farmersdelight:brown_mushroom_colony",
+        "after": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "farmersdelight:red_mushroom_colony",
+        "after": "minecraft:red_mushroom"
+      },
+      {
+        "item": "farmersdelight:sandy_shrub",
+        "after": "caverns_and_chasms:zesty_cave_growths"
+      },
+      {
+        "item": "farmersdelight:wild_tomatoes",
+        "after": "minecraft:small_dripleaf"
+      },
+      {
+        "item": "farmersdelight:wild_onions",
+        "after": "supplementaries:wild_flax"
+      },
+      {
+        "item": "farmersdelight:wild_carrots",
+        "after": "farmersdelight:wild_onions"
+      },
+      {
+        "item": "farmersdelight:wild_rice",
+        "after": "farmersdelight:wild_carrots"
+      },
+      {
+        "item": "farmersdelight:wild_cabbages",
+        "after": "farmersdelight:wild_rice"
+      },
+      {
+        "item": "farmersdelight:wild_beetroots",
+        "after": "farmersdelight:wild_cabbages"
+      },
+      {
+        "item": "farmersdelight:wild_potatoes",
+        "after": "farmersdelight:wild_beetroots"
+      },
+      {
+        "item": "farmersdelight:tomato_seeds",
+        "after": "supplementaries:flax_seeds"
+      },
+      {
+        "item": "farmersdelight:cabbage_seeds",
+        "after": "farmersdelight:tomato_seeds"
+      }
+    ],
+    "order": []
+  },
+  {
+    "action": "modify_tab",
+    "tab": [
+      "minecraft:combat"
+    ],
+    "remove_items": [],
+    "add_items": [
+      {
+        "item": "farmersdelight:flint_knife",
+        "after": "caverns_and_chasms:necromium_axe"
+      },
+      {
+        "item": "farmersdelight:iron_knife",
+        "after": "farmersdelight:flint_knife"
+      },
+      {
+        "item": "farmersdelight:golden_knife",
+        "after": "farmersdelight:iron_knife"
+      },
+      {
+        "item": "abnormals_delight:silver_knife",
+        "after": "farmersdelight:golden_knife"
+      },
+      {
+        "item": "farmersdelight:diamond_knife",
+        "after": "abnormals_delight:silver_knife"
+      },
+      {
+        "item": "farmersdelight:netherite_knife",
+        "after": "farmersdelight:diamond_knife"
+      },
+      {
+        "item": "abnormals_delight:necromium_knife",
+        "after": "farmersdelight:netherite_knife"
+      },
+      {
+        "item": "farmersdelight:rotten_tomato",
+        "after": "minecraft:wind_charge"
+      }
+    ],
+    "order": []
+  }
+]

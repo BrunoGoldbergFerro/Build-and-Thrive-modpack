@@ -3,7 +3,7 @@
   "mod": "tolerable_creepers",
   "inputs": [
     {
-      "item": "minecraft:clock"
+      "item": "minecraft:bonemeal"
     }
   ],
   "input_entity": "tolerable_creepers:creepie",
